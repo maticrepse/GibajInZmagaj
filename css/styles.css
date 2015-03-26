@@ -137,7 +137,7 @@ h1 {
   
 /* customize nav style */
 .navbar-custom {
-    background-color: #2e2e2e;
+    background-color: #3399FF;
 	font-weight:700;
     text-transform:uppercase;
     border-width:0;
@@ -146,14 +146,14 @@ h1 {
 	color: #ddd;
 }
 .navbar-custom  .dropdown-menu li>a:hover {
-	color: #eee;
+	color: #0066CC;
 }
 .navbar-custom  .navbar-nav li>a:hover, .navbar-nav li .open, .navbar-custom .navbar-nav .active a  {
-	background-color: #000;
+	background-color: #0066CC;
 }
 .navbar-custom .navbar-nav>.dropdown>a .caret {
-	border-top-color: #999;
-	border-bottom-color: #999;
+	border-top-color: #0066CC;
+	border-bottom-color: #0066CC;
 }
 
 .navbar-collapse.in { /*3.0.2 bug workaround*/
@@ -209,7 +209,7 @@ section {
 }
 
 .bg-1 {
-	background: url('http://www.bootply.com/assets/example/bg_suburb.jpg') no-repeat center center fixed; 
+	background: url('/images/otroci1.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
