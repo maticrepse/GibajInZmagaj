@@ -4372,12 +4372,12 @@ a.list-group-item.active > .badge,
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
 }
 
-.carousel-control:hover,
-.carousel-control:focus {
+.carousel-control:hover {
   color: #ffffff;
   text-decoration: none;
   opacity: 0.9;
   filter: alpha(opacity=90);
+  visibility: visible;
 }
 
 .carousel-control .glyphicon,
