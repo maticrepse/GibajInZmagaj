@@ -4292,7 +4292,7 @@ a.list-group-item.active > .badge,
 .carousel-inner > .item > a > img {
   display: inline-block;
   height: auto;
-  max-width: 100%;
+  /*max-width: 100%;*/
   line-height: 1;
 }
 
