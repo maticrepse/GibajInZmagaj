@@ -71,19 +71,17 @@ body {
     height: 900px !important;
 }
 #otroci1{
-    background-image: url("/GibajInZmagaj/images/otroci1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    content: url("/GibajInZmagaj/images/otroci1.jpg");
 }
 
 @media (max-width: 767px) {
     #otroci1 {
+        content: url("/GibajInZmagaj/images/blank.gif");
         background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
     }
 }
-
 
 #wrap > .container {
   padding: 60px 15px 0;
