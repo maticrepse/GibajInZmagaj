@@ -73,12 +73,14 @@ body {
 #otroci1{
     background-image: url("/GibajInZmagaj/images/otroci1.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 @media (max-width: 767px) {
     #otroci1 {
         background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
         background-repeat: no-repeat;
+        background-size: initial;
     }
 }
 
