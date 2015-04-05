@@ -58,12 +58,28 @@ body {
 #myCarousel  .item {
   height: 600px;
 }
+@media (max-width: 767px) {
+    #myCarousel  .item {
+        height: 300px;
+    }
+}
 #myCarousel .img {
     position: absolute;
     top: 0;
     left: 0;
     width: 1440px !important;
     height: 900px !important;
+}
+#otroci1{
+    background-image: url("/GibajInZmagaj/images/otroci1.jpg");
+    background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+    #otroci1 {
+        background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
+        background-repeat: no-repeat;
+    }
 }
 
 

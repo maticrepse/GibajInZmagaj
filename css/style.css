@@ -7,11 +7,17 @@
  * URL: http://blacktie.co
  */
 
+@media (max-width: 767px) {
+	#penus{
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+}
+
 
 #penus {
 	max-width: 1024px !important;
 	/*margin-left: 256px;*/
-	margin-left: 17.78%;
 }
 
 .font-thin {
