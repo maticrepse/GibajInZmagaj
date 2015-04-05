@@ -7,6 +7,13 @@
  * URL: http://blacktie.co
  */
 
+
+#penus {
+	max-width: 1024px !important;
+	/*margin-left: 256px;*/
+	margin-left: 17.78%;
+}
+
 .font-thin {
 	font-family: "Titillium Web", sans-serif;
 	font-weight: 200;
@@ -39,7 +46,7 @@ html, body {
 }
 
 body {
-	background-color: #2f2f2f;
+	background-color: #B2D076;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
 	overflow-x: hidden;
@@ -118,23 +125,23 @@ body {
 
 #special-active-menu-1,
 #special-active-menu-6 {
-	background-color: #0D5875 !important;
+	background-color: #B2D076 !important;
 }
 
 #special-active-menu-2 {
-	background-color: #1abc9c !important;
+	background-color: #8FBD3D !important;
 }
 
 #special-active-menu-3 {
-	background-color: #e74c3c !important;
+	background-color: #F9A731 !important;
 }
 
 #special-active-menu-4 {
-	background-color: #34495e !important;
+	background-color: #B2D076 !important;
 }
 
 #special-active-menu-5 {
-	background-color: #e67e22 !important;
+	background-color: #F9B54F !important;
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -179,23 +186,23 @@ body {
 			
 	.nav li[data-slide="1"],
 	.nav li[data-slide="6"] {
-		background-color: #0D5875;
+		background-color: #B2D076;
 	}
 	
 	.nav li[data-slide="2"] {
-		background-color: #1abc9c;
+		background-color: #8FBD3D;
 	}
 	
 	.nav li[data-slide="3"] {
-		background-color: #e74c3c;
+		background-color: #F9A731;
 	}
 	
 	.nav li[data-slide="4"] {
-		background-color: #34495e;
+		background-color: #B2D076;
 	}
 	
 	.nav li[data-slide="5"] {
-		background-color: #e67e22;
+		background-color: #F9B54F;
 	}
 	
 	.navbar-brand {
@@ -217,7 +224,7 @@ body {
 
 #slide-1 {
 	/*background-image: url('../images/otroci1.jpg');*/
-	background-color: #0D5875;
+	background-color: #B2D076;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -305,7 +312,7 @@ body {
 
 #slide-2 {
 	padding-bottom: 65px;
-	background-color: #1abc9c;
+	background-color: #8FBD3D;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -382,7 +389,15 @@ body {
 		font-size: 20px;
 	}
 }
-
+#BUREK{
+	position:absolute;
+	left: 0px;
+    top: 0px;
+	z-index:1;
+	width:100%;
+	height:100%;
+	background-color: #F9A731;
+}
 #slide-3 {
 	padding-bottom: 65px;
 	background-color: #000;
@@ -391,6 +406,12 @@ body {
 	padding: 0;
 	text-align: left;
 	width: 100%;
+	/*height:902px; 
+	background-color:RED;*/
+}
+#slide-3 .row{
+	position:static;
+	z-index:-1;
 }
 	
 	#slide-3 .col-12 {
@@ -399,6 +420,8 @@ body {
 		margin: 0;
 		padding: 0;
 		width: 452px;
+		/*z-index:-1;
+		position:absolute;*/
 	}
 
 	#slide-3 a,
@@ -407,12 +430,15 @@ body {
 		height: 100%;
 		margin: 0 auto;
 		width: 100%;
+		/*z-index:-1;
+		position:absolute;*/
 	}
 	
 @media (max-width: 991px) {
 	#slide-3 {
 		text-align: center;
 		width: 100%;
+		
 	}
 	
 	#slide-3 .row {
@@ -443,7 +469,7 @@ body {
 
 #slide-4 {
 	padding-bottom: 65px;
-	background-color: #34495e;
+	background-color: #B2D076;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
@@ -456,14 +482,14 @@ body {
 
 #slide-5 {
 	padding-bottom: 65px;
-	background-color: #f39c12;
+	background-color: #F9B54F;
 	color: #e4e6e5;
 	padding-top: 90px;
 }
 
 #slide-6 {
 	padding-bottom: 65px;
-	background-color: #2f2f2f;
+	background-color: #B2D076;
 	color: #e4e6e5;
 	padding-bottom: 350px;
 	padding-top: 90px;
