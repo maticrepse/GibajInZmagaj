@@ -15,7 +15,7 @@ setInterval(function(){
 },500);
 
 setInterval(function(){
-    //document.getElementById("next").click();
+    document.getElementById("next").click();
 },10000);
 //klik=1;
 function izpis(){

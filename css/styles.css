@@ -116,15 +116,6 @@ body {
         z-index: 3;
     }
 }
-@media (max-width: 350px) {
-    #otroci3 {
-        content: url("/GibajInZmagaj/images/blank.gif");
-        background-image: url("/GibajInZmagaj/images/otroci3XS.png");
-        background-repeat: no-repeat;
-        background-size: initial;
-        z-index: 3;
-    }
-}
 
 #wrap > .container {
   padding: 60px 15px 0;
