@@ -82,6 +82,38 @@ body {
         background-size: initial;
     }
 }
+#otroci2{
+    content: url("/GibajInZmagaj/images/otroci2.jpg");
+}
+
+@media (max-width: 767px) {
+    #otroci2 {
+        content: url("/GibajInZmagaj/images/blank.gif");
+        background-image: url("/GibajInZmagaj/images/otroci2SMALL.png");
+        background-repeat: no-repeat;
+        background-size: initial;
+    }
+}
+#otroci3{
+    content: url("/GibajInZmagaj/images/otroci3.jpg");
+}
+
+@media (max-width: 767px) {
+    #otroci3 {
+        content: url("/GibajInZmagaj/images/blank.gif");
+        background-image: url("/GibajInZmagaj/images/otroci3SMALL.png");
+        background-repeat: no-repeat;
+        background-size: initial;
+    }
+}
+@media (max-width: 350px) {
+    #otroci3 {
+        content: url("/GibajInZmagaj/images/blank.gif");
+        background-image: url("/GibajInZmagaj/images/otroci3XS.png");
+        background-repeat: no-repeat;
+        background-size: initial;
+    }
+}
 
 #wrap > .container {
   padding: 60px 15px 0;
