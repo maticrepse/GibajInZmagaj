@@ -15,24 +15,36 @@ setInterval(function(){
 },500);
 
 setInterval(function(){
-    document.getElementById("next").click();
+    //document.getElementById("next").click();
 },10000);
-klik=1;
+//klik=1;
 function izpis(){
-    klik++;
+    /*klik++;
     if(klik%4===0){
         document.getElementById("otroci3").style.zIndex=0;
         klik=1;
     }else{
         document.getElementById("otroci3").style.zIndex=3;
+    }*/
+    var x = document.getElementById("otroci3").parentElement.classList;
+    if(x[1]=="active"){
+        document.getElementById("otroci3").style.zIndex=0;
+    }else{
+        document.getElementById("otroci3").style.zIndex=3;
     }
 }
 function izpisNazaj(){
-    klik--;
+    /*klik--;
     if(klik==0){
         klik=3;
         document.getElementById("otroci3").style.zIndex=0;
     }else if(klik==2){
         document.getElementById("otroci3").style.zIndex=3;
+    }*/
+    var x = document.getElementById("otroci3").parentElement.classList;
+    if(x[1]=="active"){
+        document.getElementById("otroci3").style.zIndex=3;
+    }else{
+        document.getElementById("otroci3").style.zIndex=0;
     }
 }
