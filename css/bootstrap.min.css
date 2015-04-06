@@ -4273,12 +4273,14 @@ a.list-group-item.active > .badge,
 
 .carousel {
   position: relative;
+  data-interval="false";
 }
 
 .carousel-inner {
   position: relative;
   width: 100%;
   overflow: hidden;
+  data-interval="false";
 }
 
 .carousel-inner > .item {
@@ -4286,6 +4288,7 @@ a.list-group-item.active > .badge,
   display: none;
   -webkit-transition: 0.6s ease-in-out left;
           transition: 0.6s ease-in-out left;
+  data-interval="false";
 }
 
 .carousel-inner > .item > img,
@@ -4294,16 +4297,19 @@ a.list-group-item.active > .badge,
   height: auto;
   /*max-width: 100%;*/
   line-height: 1;
+  data-interval="false";
 }
 
 .carousel-inner > .active,
 .carousel-inner > .next,
 .carousel-inner > .prev {
   display: block;
+  data-interval="false";
 }
 
 .carousel-inner > .active {
   left: 0;
+  data-interval="false";
 }
 
 .carousel-inner > .next,
@@ -4311,27 +4317,33 @@ a.list-group-item.active > .badge,
   position: absolute;
   top: 0;
   width: 100%;
+  data-interval="false";
 }
 
 .carousel-inner > .next {
   left: 100%;
+  data-interval="false";
 }
 
 .carousel-inner > .prev {
   left: -100%;
+  data-interval="false";
 }
 
 .carousel-inner > .next.left,
 .carousel-inner > .prev.right {
   left: 0;
+  data-interval="false";
 }
 
 .carousel-inner > .active.left {
   left: -100%;
+  data-interval="false";
 }
 
 .carousel-inner > .active.right {
   left: 100%;
+  data-interval="false";
 }
 
 .carousel-control {
@@ -4346,6 +4358,7 @@ a.list-group-item.active > .badge,
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
   opacity: 0.5;
   filter: alpha(opacity=50);
+  data-interval="false";
 }
 
 .carousel-control.left {
@@ -4357,6 +4370,7 @@ a.list-group-item.active > .badge,
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.0001) 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+  data-interval="false";
 }
 
 .carousel-control.right {
@@ -4370,6 +4384,7 @@ a.list-group-item.active > .badge,
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.0001) 0, rgba(0, 0, 0, 0.5) 100%);
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+  data-interval="false";
 }
 
 .carousel-control:hover {
@@ -4393,6 +4408,7 @@ a.list-group-item.active > .badge,
   margin-top: -10px;
   margin-left: -10px;
   font-family: serif;
+  data-interval="false";
 }
 
 .carousel-control .icon-prev:before {

@@ -8,6 +8,10 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+#next,
+#previous{
+    z-index: 4;
+}
 .row {
   margin-left:0px;
   margin-right:0px;
@@ -72,6 +76,7 @@ body {
 }
 #otroci1{
     content: url("/GibajInZmagaj/images/otroci1.jpg");
+    z-index: 1;
 }
 
 @media (max-width: 767px) {
@@ -80,10 +85,12 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
+        z-index: 1;
     }
 }
 #otroci2{
     content: url("/GibajInZmagaj/images/otroci2.jpg");
+    z-index: 2;
 }
 
 @media (max-width: 767px) {
@@ -92,10 +99,12 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci2SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
+        z-index: 2;
     }
 }
 #otroci3{
     content: url("/GibajInZmagaj/images/otroci3.jpg");
+    z-index: 3;
 }
 
 @media (max-width: 767px) {
@@ -104,6 +113,7 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci3SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
+        z-index: 3;
     }
 }
 @media (max-width: 350px) {
@@ -112,6 +122,7 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci3XS.png");
         background-repeat: no-repeat;
         background-size: initial;
+        z-index: 3;
     }
 }
 

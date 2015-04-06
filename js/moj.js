@@ -17,3 +17,22 @@ setInterval(function(){
 setInterval(function(){
     document.getElementById("next").click();
 },10000);
+klik=1;
+function izpis(){
+    klik++;
+    if(klik%4===0){
+        document.getElementById("otroci3").style.zIndex=0;
+        klik=1;
+    }else{
+        document.getElementById("otroci3").style.zIndex=3;
+    }
+}
+function izpisNazaj(){
+    klik--;
+    if(klik==0){
+        klik=3;
+        document.getElementById("otroci3").style.zIndex=0;
+    }else if(klik==2){
+        document.getElementById("otroci3").style.zIndex=3;
+    }
+}
