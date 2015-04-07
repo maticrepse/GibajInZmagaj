@@ -100,6 +100,7 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci2SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
+        background-position: center;
         z-index: 2;
     }
 }
@@ -114,6 +115,7 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci3SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
+        background-position: center;
         z-index: 3;
     }
 }
