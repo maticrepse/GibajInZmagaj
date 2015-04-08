@@ -16,7 +16,20 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">	
 	<link href="css/styles.css" rel="stylesheet">
 	<link href="css/tabcontent.css" rel="stylesheet" type="text/css" />
-<script src="js/tabcontent.js" type="text/javascript"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <!--script>
+        function initialize() {
+            var mapCanvas = document.getElementById('map-canvas');
+            var mapOptions = {
+                center: new google.maps.LatLng(44.5403, -78.5463),
+                zoom: 8,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map = new google.maps.Map(mapCanvas, mapOptions);
+
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script-->
 	<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	
 
@@ -124,63 +137,46 @@
 	<div class="slide story" id="slide-2" data-slide="2">
       
 		<div class="container" id="drugi">
+            <div class="row title-row">
+                <div class="col-12 font-semibold" style="color:white; font-size: 80px; text-align: center"><i class="icon icon-fire"></i>&nbspTabor</div>
+            </div><!-- /row -->
   			<ul class="tabs" data-persist="true">
-            <li><a href="#view1">Lorem</a></li>
-            <li><a href="#view2">Using other templates</a></li>
-            <li><a href="#view3">Advanced</a></li>
+            <li><a href="#view1">Opis tabora</a></li>
+            <li><a href="#view2">Ekipa</a></li>
+            <li><a href="#view3">Lokacija</a></li>
+            <li><a href="#view4">Termini in prijava</a></li>
         </ul>
         <div class="tabcontents">
             <div id="view1">
-                <div class="row title-row">
-				<div class="col-12 font-thin">Contrary to popular belief, <span class="font-semibold">Lorem Ipsum</span> is not simply random text.</div>
-			</div><!-- /row -->
-			<div class="row line-row">
-				<div class="hr">&nbsp;</div>
-			</div><!-- /row -->
-			<div class="row subtitle-row">
-				<div class="col-12 font-thin">This is what <span class="font-semibold">we do best</span></div>
-			</div><!-- /row -->
-			<div class="row content-row">
-				<div class="col-12 col-lg-3 col-sm-6">
-					<p><i class="icon icon-eye-open"></i></p>
-					<h2 class="font-thin">Visual <span class="font-semibold">Identity</span></h2>
-					<h4 class="font-thin">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-				</div><!-- /col12 -->
-				<div class="col-12 col-lg-3 col-sm-6">
-					<p><i class="icon icon-laptop"></i></p>
-					<h2 class="font-thin">Web <span class="font-semibold">Design</span></h2>
-					<h4 class="font-thin">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-				</div><!-- /col12 -->
-				<div class="col-12 col-lg-3 col-sm-6">
-					<p><i class="icon icon-tablet"></i></p>
-					<h2 class="font-thin">Mobile <span class="font-semibold">Apps</span></h2>
-					<h4 class="font-thin">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-				</div><!-- /col12 -->
-				<div class="col-12 col-lg-3 col-sm-6">
-					<p><i class="icon icon-pencil"></i></p>
-					<h2 class="font-semibold">Development</h2>
-					<h4 class="font-thin">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h4>
-				</div><!-- /col12 -->
-			</div><!-- /row -->
+                <span class="opisTabora">Tabor je namenjen izključno otrokom s prekomerno telesno težo. Otroci bodo 24 ur na dan pod strokovnim nadzorom. Tabor bo imel svojega zdravnika, nutricionista, psihoterapevta, osebne trenerje, mnogo animatorjev in »mamo« varovancev. Hrana bo zdrava, raznolika in pripravljena po priporočilih WHO-ja (Svetovna zdravstvena organizacija). Jedilnik bo prilagojen vsakemu varovancu posebej. Vse sladkane pijače in sladki priboljški bodo izločeni.<br><br>
+                Ob delavnikih bo tabor potekal po ustaljenem urniku. Zjutraj ob 7. uri se bomo zbujali. Sledi razgibavanje, čas za osebno higieno in zajtrk. Po zajtrku bo dolg sprehod ali kolesarjenje, nato bo na vrsti malica in po malici delavnica zdravega življenjskega sloga. Otroci se bodo učili o zdravem prehranjevanju (kaj in koliko jesti, ter kako pripraviti zdrav obrok). Prav tako se bodo učili o pomembnosti gibanja in o kontroli vnosa in porabe. Sledi kosilo, po kosilu počitek in čas za družabne igre. Po počitku bo na vrsti popoldanska malica. Nato bodo na vrsti popoldanske športne aktivnosti. Nabor aktivnosti bo velik: iger z žogo, iger v naravi, plavanje, kolesarjenje, aerobika, pohodništvo, plezanje, boot camp, vodene vadbe, fitnes, iger brez meja, poletno sankanje, skike in rolanje, pikniki v naravi, itd... Temu sledi čas za osebno higieno in večerjo. Po večerji bo čas za družabne večere in druženje, s tem so mišljeni tematski večeri, karaoke, bitka talentov, zabave, druženje ob ognju, itd... Ob 21:30 bo čas za počitek. Vikendi pa bodo namenjeni obisku staršev, izletom, pohodom, raziskovanju okolice.<br><br>
+                V času bivanja bodo otroci pisali dnevnik. Vanj bodo beležili vnos, porabo, telesno težo in počutje. Dnevnik bodo pisali tudi po odpustu in nam ga pošiljali. Z nasveti in različnimi delavnicami bomo poskrbeli za otroke tudi, ko bodo v domačem okolju.<br><br>
+                Poudarek bo na zabavnem in prijetnem druženju s sovrstniki, ki se borijo s podobnimi težavami. Ekipa animatorjev in drugi bomo poskrbeli, da bo tabor poln pozitivne energije, zagnanosti, motiviranosti in prijateljstva.<br><br></span>
+
             </div>
             <div id="view2">
-                <b>Switch to other templates</b>
-                <p>Open this page with Notepad, and update the CSS link to:</P>
-                <p>template1 ~ 6.</p>                
+                <span class="opisTabora">Ko želimo shujšati, moramo razmišljati celostno. Ni dovolj, da manj jemo ali pa samo pričnemo s tekom. To še posebej velja za otroke. Potrebno je spremeniti več stvari, da so spremembe kakovostne in trajne. Zato ekipo sestavljajo vrhunski strokovnjaki z različnih področij.<br><br>
+<span class="doktore">Zdravnik&nbsp</span> bo na začetku tabora pregledal varovance in ugotovil posebnosti, na katere bomo pozorni. Tudi tekom tabora bo spremljal napredek in opozarjal na morebitne spremembe programa posameznika. Na delavnicah bo predstavil vzroke in posledice debelosti.<br><br>
+<span class="doktore">Nutricionisti&nbsp</span> bodo pripravili zdrav in uravnotežen jedilnik, ki bo prilagojen vsakemu posebej. Skrbeli bodo tudi, da otroci na delavnicah spoznajo načela zdrave prehrane. V dnevnike bodo beležili vnos in porabo.<br><br>
+<span class="doktore">Osebni trenerji&nbsp</span> bodo odgovorni za pripravo primernih aktivnosti varovancem. Po načelu individualizacije bo vadba drugačna za tiste, ki so bolj pripravljene in tiste, ki so slabše pripravljeni. Poskrbeli bodo tudi, da otroci ne bodo pretiravali in jim bo vadba v užitek. Na delavnicah bodo predavali o pomembnosti gibanja in koliko kalorij porabimo s posamezno vadbo. Tako bodo otroci lahko ocenili, koliko morajo gibati glede na to, koliko pojedo.<br><br>
+<span class="doktore">Psihoterapevt&nbsp</span> bo zadolžen, da bo v otrocih prepoznal težave, ki izvirajo iz slabe samopodobe, strahu in drugih duševnih stisk. Z različnimi prijemi bo otrokom vlival samozavest in jim pokazal, kako naj se soočijo z osebnostnimi problemi.<br><br>
+<span class="doktore">Animatorji&nbsp</span> bodo z nami zato, da bo vzdušje vseskozi pozitivno in prijateljsko. Na različne načine bodo otroke motivirali, razveseljevali, spodbujali in jim krepili samozavest. Organizirali bodo tematske večere, bitke talentov in druge zabavne aktivnosti.<br><br>
+<span class="doktore">»Mama varovancev«&nbsp</span> bo oseba, na katero se bodo otroci obrnili v primeru kakršnihkoli vprašanj, osebnih stisk ali pa samo želje po pogovoru.<br><br>
+</span>
             </div>
             <div id="view3">
-                <b>Advanced</b>
-                <p>If you expect a more feature-rich version of the tabber, you can use the advanced version of the script, 
-                    <a href="http://www.menucool.com/jquery-tabs">McTabs - jQuery Tabs</a>:</p>
-                <ul>
-                    <li>URL support: a hash id in the URL can select a tab</li>
-                    <li>Bookmark support: select a tab via bookmark anchor</li>
-                    <li>Select tabs by mouse over</li>
-                    <li>Auto advance</li>
-                    <li>Smooth transitional effect</li>
-                    <li>Content can retrieved from other documents or pages through Ajax</li>
-                    <li>... and more</li>     
-                </ul>
+                <div class="row">
+
+                    <div id="map-canvas" style="width:100%; height:300px; background-color: #080808"></div>
+
+                    <address>
+                        <span id="map-input">
+                        Rogla, 3214 Zreče</span><br>
+                    </address>
+                </div><!--/row-->
+            </div>
+            <div id="view4">
+                    Content
             </div>
         </div>
       

@@ -11,6 +11,22 @@
 	min-height:400px;
 }
 
+.opisTabora{
+	color:white;
+	font-size: 20px;
+	text-align: left;
+	font-family: "Titillium Web", sans-serif;
+}
+.doktore{
+	font-weight: 900;
+	font-size: 30px;
+}
+#map-input{
+	color:white;
+	font-size: 30px;
+	text-align: center;
+	font-family: "Titillium Web", sans-serif;
+}
 
 @media (max-width: 767px) {
 	#penus{
@@ -225,12 +241,12 @@ body {
 :focus {outline:none;}
 ::-moz-focus-inner {border:0;}
 
-.slide {
+.slide:not(.opisTabora){
 	background-position: center center;
 	background-repeat: no-repeat;
 	
 	padding-top: 50px;
-	text-align: center;
+
 }
 
 #slide-1 {

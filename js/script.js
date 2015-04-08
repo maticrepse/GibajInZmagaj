@@ -342,7 +342,7 @@ jQuery(document).ready(function ($) {
 	});
 	
 });
-/*
+
 google.maps.visualRefresh = true;
 
 var map;
@@ -352,7 +352,7 @@ function initialize() {
 	var mapOptions = {
     	zoom: 15,
     	mapTypeId: google.maps.MapTypeId.ROADMAP,
-     	scrollwheel: false
+     	scrollwheel: true
 	};
 	map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
 	
