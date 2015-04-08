@@ -25,10 +25,14 @@
 	font-size: 30px;
 	text-align: center;
 	font-family: "Titillium Web", sans-serif;
+	visibility: hidden;
 }
 #map-canvas{
-	width: 100px;
-	height:300px;
+	width: 100%; 
+  	height: 100%;
+	margin: 0;
+	padding: 15px;
+	border: 3px solid #74913F;
 }
 
 @media (max-width: 767px) {

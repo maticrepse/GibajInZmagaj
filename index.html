@@ -17,19 +17,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	<link href="css/tabcontent.css" rel="stylesheet" type="text/css" />
     <script src="https://maps.googleapis.com/maps/api/js"></script>
-    <!--script>
-        function initialize() {
-            var mapCanvas = document.getElementById('map-canvas');
-            var mapOptions = {
-                center: new google.maps.LatLng(44.5403, -78.5463),
-                zoom: 8,
-                mapTypeId: google.maps.MapTypeId.ROADMAP
-            }
-            var map = new google.maps.Map(mapCanvas, mapOptions);
-
-        }
-        google.maps.event.addDomListener(window, 'load', initialize);
-    </script-->
+    
 	<link href='https://fonts.googleapis.com/css?family=Titillium+Web:400,600,300,200&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	
 
@@ -143,7 +131,7 @@
   			<ul class="tabs" data-persist="true">
             <li class="selected"><a href="#view1">Opis tabora</a></li>
             <li><a href="#view2">Ekipa</a></li>
-            <li><a href="#view3">Lokacija</a></li>
+            <li><a href="#view3" onclick="loadScript()">Lokacija</a></li>
             <li><a href="#view4">Termini in prijava</a></li>
         </ul>
         <div class="tabcontents">
@@ -165,12 +153,12 @@
 </span>
             </div>
             <div id="view3">
-                <div class="row">
-                    <div class="col-lg-5" style="width: 400px">
+            	<div class="row">
+                    <div class="col-lg-7" style="width: 600px; height: 350px">
                     <div id="map-canvas"></div>
                     </div>
-                    <div class="col-lg-7"><span class="opisTabora">Ko želimo shujšati, moramo razmišljati celostno. Ni dovolj, da manj jemo ali pa samo pričnemo s tekom. To še posebej velja za otroke. Potrebno je spremeniti več stvari, da so spremembe kakovostne in trajne. Zato ekipo sestavljajo vrhunski strokovnjaki z različnih področij.<br><br>
-<span class="doktore">Zdravnik&nbsp</span> bo na začetku tabora pregledal varovance in ugotovil posebnosti, na katere bomo pozorni. Tudi tekom tabora bo spremljal napredek in opozarjal na morebitne spremembe programa posameznika. Na delavnicah bo predstavil vzroke in posledice debelosti.<br><br></div>
+                    <div class="col-lg-5"><span class="opisTabora">Ko želimo shujšati, moramo razmišljati celostno. Ni dovolj, da manj jemo ali pa samo pričnemo s tekom. To še posebej velja za otroke. Potrebno je spremeniti več stvari, da so spremembe kakovostne in trajne. Zato ekipo sestavljajo vrhunski strokovnjaki z različnih področij.<br><br>
+                    <span class="doktore">Zdravnik&nbsp</span> bo na začetku tabora pregledal varovance in ugotovil posebnosti, na katere bomo pozorni. Tudi tekom tabora bo spremljal napredek in opozarjal na morebitne spremembe programa posameznika. Na delavnicah bo predstavil vzroke in posledice debelosti.<br><br></div>
                     <address style="visibility: hidden;">
                         <span id="map-input">
                         Rogla, 3214 Zreče</span><br>
@@ -178,7 +166,7 @@
                 </div><!--/row-->
             </div>
             <div id="view4">
-                    Content
+                    <span class="doktore" style="color:white">Termini:&nbsp&nbsp&nbsp12.7. 2015 do 26.7. 2015<br>Kontakt:&nbsp&nbsp&nbspMarko - 031 395 325</span>
             </div>
         </div>
       

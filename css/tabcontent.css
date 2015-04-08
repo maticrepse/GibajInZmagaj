@@ -49,7 +49,7 @@ ul.tabs li a:visited
 ul.tabs li a:hover
 {
     text-decoration: none;
-    color:#E9951C;
+    color:#CF7C06;
 }
         
 ul.tabs li.selected a, ul.tabs li.selected a:hover
@@ -59,12 +59,12 @@ ul.tabs li.selected a, ul.tabs li.selected a:hover
     font: normal 28px "Titillium Web", sans-serif;
     font-weight:600;
     /*font-weight:bold;*/
-    background: #8FBD3D;
+    background: #8DB545;
     color:White;
     border-top: 3px solid #DEEDC0;
     border-left: 3px solid #DEEDC0;
     border-right: 3px solid #DEEDC0;
-    border-bottom: 3px solid #8FBD3D;
+    border-bottom: 3px solid #8DB545;
     z-index:2;
     border-radius: 10%;
 }
@@ -77,9 +77,18 @@ ul.tabs li.selected a:hover
 
 div.tabcontents
 {
-    border-top: 3px solid #8FBD3D;
+    border-top: 3px solid #8DB545;
     padding: 30px;
-    background-color: #8FBD3D;
+    background-color: #8DB545;
+}
+#drugi {
+    width: 100%;
+}
+#map-input {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
 }
 /*.opisTabora{
 	color:white;
