@@ -85,7 +85,6 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
-        background-position: center;
         z-index: 1;
     }
 }
@@ -100,7 +99,6 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci2SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
-        background-position: center;
         z-index: 2;
     }
 }
@@ -115,7 +113,6 @@ body {
         background-image: url("/GibajInZmagaj/images/otroci3SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
-        background-position: center;
         z-index: 3;
     }
 }
@@ -151,7 +148,7 @@ h1 {
 }
 
 #logoSlika{
-  width:167px !important;
+  width:223px !important;
 }
 
 

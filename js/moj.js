@@ -1,6 +1,7 @@
 /**
  * Created by maticrepse on 05/04/15.
  */
+
 setInterval(function(){
     var w=window.innerWidth;
     var x=100*464/w;
@@ -9,8 +10,8 @@ setInterval(function(){
     z=100*z/w;
     if(y==z){
         document.getElementById("penus").style.marginLeft = z+"%";
-    }else{
-        document.getElementById("penus").style.marginLeft = y+"%";
+    }else {
+        document.getElementById("penus").style.marginLeft = y + "%";
     }
 },500);
 
@@ -44,7 +45,9 @@ function izpisNazaj(){
     var x = document.getElementById("otroci3").parentElement.classList;
     if(x[1]=="active"){
         document.getElementById("otroci3").style.zIndex=3;
-    }else{
-        document.getElementById("otroci3").style.zIndex=0;
+    }else {
+        document.getElementById("otroci3").style.zIndex = 0;
     }
 }
+
+
