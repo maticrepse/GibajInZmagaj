@@ -75,7 +75,7 @@ body {
     height: 900px !important;
 }
 #otroci1{
-    content: url("/GibajInZmagaj/images/otroci1.jpg");
+    content: url("/images/otroci1.jpg");
     z-index: 1;
 }
 

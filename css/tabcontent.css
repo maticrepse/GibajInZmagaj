@@ -1,0 +1,83 @@
+﻿/* Tab Content - menucool.com */
+ul.tabs
+{
+    padding: 8px 0;
+    font-size: 0;
+    margin:0;
+    list-style-type: none;
+    text-align: center; /*set to left, center, or right to align the tabs as desired*/
+    border-bottom: 3px solid #DEEDC0;
+    border-radius: 0%;
+}
+        
+ul.tabs li
+{
+    display: inline;
+    margin: 0;
+    margin-right:-4px; /*distance between tabs*/
+}
+        
+ul.tabs li a
+{
+    font: normal 24px "Titillium Web", sans-serif;
+    font-weight:400;
+    text-decoration: none;
+    position: relative;
+    padding: 8px 20px;
+    border-right: 3px solid #DEEDC0;
+    border-left: 3px solid #DEEDC0;
+    border-radius: 5%;
+    color: #F2FAE1;
+    background: #B2D076;
+    outline:none;
+} 
+       
+ul.tabs li:last-child a
+{
+    border-right:none;
+}
+ul.tabs li:first-child a
+{
+    border-left:none;
+}
+        
+ul.tabs li a:visited
+{
+    color: #000;
+}
+        
+ul.tabs li a:hover
+{
+    text-decoration: none;
+    color:#888;
+}
+        
+ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+    position: relative;
+    top: 0px;
+    font: normal 28px "Titillium Web", sans-serif;
+    font-weight:600;
+    /*font-weight:bold;*/
+    background: #8FBD3D;
+    color:White;
+    border-top: 3px solid #DEEDC0;
+    border-left: 3px solid #DEEDC0;
+    border-right: 3px solid #DEEDC0;
+    border-bottom: 3px solid #8FBD3D;
+    z-index:2;
+    border-radius: 10%;
+}
+        
+        
+ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+}
+
+div.tabcontents
+{
+    border-top: 3px solid #8FBD3D;
+    padding: 30px;
+    background-color: #8FBD3D;
+}

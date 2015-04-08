@@ -7,6 +7,11 @@
  * URL: http://blacktie.co
  */
 
+#drugi{
+	min-height:400px;
+}
+
+
 @media (max-width: 767px) {
 	#penus{
 		margin-left: auto !important;
@@ -319,7 +324,7 @@ body {
 #slide-2 {
 	padding-bottom: 65px;
 	background-color: #8FBD3D;
-	color: #e4e6e5;
+	/*color: #e4e6e5;*/
 	padding-top: 90px;
 }
 

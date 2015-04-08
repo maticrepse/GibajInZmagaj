@@ -3,6 +3,7 @@ $(document).ready(function(e) {
 	$('.with-hover-text, .regular-link').click(function(e){
 		e.stopPropagation();
 	});
+
 	
 	/***************
 	* = Hover text *
@@ -245,12 +246,14 @@ jQuery(document).ready(function ($) {
 			$('.special-active-menu').remove();
 		}
 	);
+	
 });
 
 /******************
 * = Gallery hover *
 ******************/
 jQuery(document).ready(function ($) {
+	
 	//Cache some variables
 	var images = $('#slide-3 a');
 	
@@ -337,6 +340,7 @@ jQuery(document).ready(function ($) {
 			}
 		}
 	});
+	
 });
 /*
 google.maps.visualRefresh = true;

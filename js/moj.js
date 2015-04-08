@@ -49,5 +49,15 @@ function izpisNazaj(){
         document.getElementById("otroci3").style.zIndex = 0;
     }
 }
+/*
+$(document).ready(function() {
+    
+    $('.nav-tabs li:eq(0) a').tab('show');
+    burek();
+});
 
-
+function burek(){
+    $("#neki").click();
+    console.log("KAK");
+}
+*/
