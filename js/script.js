@@ -352,6 +352,7 @@ function initialize() {
 	var mapOptions = {
     	zoom: 15,
     	mapTypeId: google.maps.MapTypeId.ROADMAP,
+     	//preserveViewport: true,
      	scrollwheel: true
 	};
 	map = new google.maps.Map(document.getElementById('map-canvas'),mapOptions);
@@ -384,14 +385,16 @@ function initialize() {
 }
 //google.maps.event.addDomListener(window, 'load', initialize);
 
-
+neki=1
 function loadScript() {
-  var script = document.createElement('script');
-  script.type = 'text/javascript';
-  script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp' +
-      '&signed_in=true&callback=initialize';
-  document.body.appendChild(script);
-  //$("#opis1").click();
+	if(neki<3){
+		neki++;
+		  var script = document.createElement('script');
+		  script.type = 'text/javascript';
+		  script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp' +
+		      '&signed_in=true&callback=initialize';
+		  document.body.appendChild(script);
+	}
 }
 
 window.onload = loadScript;
