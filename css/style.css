@@ -10,7 +10,6 @@
 #drugi{
 	min-height:400px;
 }
-
 .opisTabora{
 	color:white;
 	font-size: 20px;
@@ -26,6 +25,10 @@
 	font-size: 30px;
 	text-align: center;
 	font-family: "Titillium Web", sans-serif;
+}
+#map-canvas{
+	width: 100px;
+	height:300px;
 }
 
 @media (max-width: 767px) {
@@ -241,7 +244,7 @@ body {
 :focus {outline:none;}
 ::-moz-focus-inner {border:0;}
 
-.slide:not(.opisTabora){
+.slide {
 	background-position: center center;
 	background-repeat: no-repeat;
 	
@@ -266,6 +269,7 @@ body {
 	background-position: center center;
 	padding-bottom: 0px;
 	padding-top: 0px;
+	text-align: center;
 }
 
 #slide-1 h1 {
