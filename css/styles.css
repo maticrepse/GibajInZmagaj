@@ -103,14 +103,14 @@ body {
     }
 }
 #otroci3{
-    content: url("/GibajInZmagaj/images/otroci3.jpg");
+    content: url("/GibajInZmagaj/images/rogla1.jpg");
     z-index: 3;
 }
 
 @media (max-width: 767px) {
     #otroci3 {
         content: url("/GibajInZmagaj/images/blank.gif");
-        background-image: url("/GibajInZmagaj/images/otroci3SMALL.png");
+        background-image: url("/GibajInZmagaj/images/rogla1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
         z-index: 3;
