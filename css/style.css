@@ -6,6 +6,9 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
+#rogla:hover{
+	text-decoration: none;
+}
 
 #drugi{
 	min-height:400px;
@@ -35,8 +38,8 @@
 	border: 3px solid #74913F;
 }
 #mapca{
-	width: 600px; 
-	height: 350px;
+	width: 500px;
+	height: 450px;
 }
 @media (max-width: 767px) {
 	#mapca{
