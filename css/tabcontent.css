@@ -49,7 +49,7 @@ ul.tabs li a:visited
 ul.tabs li a:hover
 {
     text-decoration: none;
-    color:#CF7C06;
+    color:#212121;
 }
         
 ul.tabs li.selected a, ul.tabs li.selected a:hover
