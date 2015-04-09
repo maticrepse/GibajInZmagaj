@@ -83,7 +83,7 @@ body {
 	background-color: #B2D076;
 	font-family: "Titillium Web", sans-serif;
 	font-weight: normal;
-	overflow-x: hidden;
+	overflow-x: scrollwheel;
 	-webkit-font-smoothing: antialiased !important;
 }
 
