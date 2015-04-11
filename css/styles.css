@@ -8,6 +8,11 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+body:after {
+    display: none;
+    content: url("../images/otroci1.jpg") url("../images/otroci2.jpg") url("../images/rogla1.jpg");
+}
+
 #next,
 #previous{
     z-index: 4;

@@ -51,6 +51,10 @@ ul.tabs li a:hover
     text-decoration: none;
     color:#212121;
 }
+
+ul.tabs li.selected {
+    bottom:-2px;
+}
         
 ul.tabs li.selected a, ul.tabs li.selected a:hover
 {
@@ -66,7 +70,8 @@ ul.tabs li.selected a, ul.tabs li.selected a:hover
     border-right: 3px solid #DEEDC0;
     border-bottom: 3px solid #8DB545;
     z-index:2;
-    border-radius: 10%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
 }
         
         
