@@ -75,42 +75,42 @@ body {
     height: 600px !important;
 }
 #otroci1{
-    content: url("/GibajInZmagaj/images/otroci1.jpg");
+    content: url("../images/otroci1.jpg");
     z-index: 1;
 }
 
 @media (max-width: 767px) {
     #otroci1 {
-        content: url("/GibajInZmagaj/images/blank.gif");
-        background-image: url("/GibajInZmagaj/images/otroci1SMALL.png");
+        content: url("../images/blank.gif");
+        background-image: url("../images/otroci1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
         z-index: 1;
     }
 }
 #otroci2{
-    content: url("/GibajInZmagaj/images/rogla1.jpg");
+    content: url("../images/rogla1.jpg");
     z-index: 2;
 }
 
 @media (max-width: 767px) {
     #otroci2 {
-        content: url("/GibajInZmagaj/images/blank.gif");
-        background-image: url("/GibajInZmagaj/images/rogla1SMALL.png");
+        content: url("../images/blank.gif");
+        background-image: url("../images/rogla1SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
         z-index: 2;
     }
 }
 #otroci3{
-    content: url("/GibajInZmagaj/images/otroci2.jpg");
+    content: url("../images/otroci2.jpg");
     z-index: 3;
 }
 
 @media (max-width: 767px) {
     #otroci3 {
-        content: url("/GibajInZmagaj/images/blank.gif");
-        background-image: url("/GibajInZmagaj/images/otroci2SMALL.png");
+        content: url("../images/blank.gif");
+        background-image: url("../images/otroci2SMALL.png");
         background-repeat: no-repeat;
         background-size: initial;
         z-index: 3;
