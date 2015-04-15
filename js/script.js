@@ -400,4 +400,9 @@ function loadScript() {
 
 window.onload = loadScript;
 
+function kliknLink(){
+	var win = window.open('http://www.rogla.eu/si/aktivnosti', '_blank');
+	win.focus();
+}
+
 /* end google maps */

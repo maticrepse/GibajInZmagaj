@@ -10,7 +10,7 @@ body {
 
 body:after {
     display: none;
-    content: url("../images/otroci1.jpg") url("../images/otroci2.jpg") url("../images/rogla1.jpg");
+    /*content: url("../images/otroci1.jpg") url("../images/otroci2.jpg") url("../images/rogla1.jpg");*/
 }
 
 #next,
@@ -80,7 +80,7 @@ body:after {
     height: 600px !important;
 }
 #otroci1{
-    content: url("../images/otroci1.jpg");
+
     z-index: 1;
 }
 
@@ -94,7 +94,7 @@ body:after {
     }
 }
 #otroci2{
-    content: url("../images/rogla1.jpg");
+
     z-index: 2;
 }
 
@@ -108,7 +108,7 @@ body:after {
     }
 }
 #otroci3{
-    content: url("../images/otroci2.jpg");
+
     z-index: 3;
 }
 
