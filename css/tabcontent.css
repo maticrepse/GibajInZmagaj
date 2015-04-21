@@ -1,5 +1,7 @@
 /* Tab Content - menucool.com */
-ul.tabs
+
+/* TABI - TABOR */
+#drugi > ul.tabs
 {
     padding: 8px 0;
     font-size: 0;
@@ -10,14 +12,14 @@ ul.tabs
     border-radius: 0%;
 }
         
-ul.tabs li
+#drugi > ul.tabs li
 {
     display: inline;
     margin: 0;
     margin-right:-4px; /*distance between tabs*/
 }
         
-ul.tabs li a
+#drugi > ul.tabs li a
 {
     font: normal 24px "Titillium Web", sans-serif;
     font-weight:400;
@@ -32,31 +34,31 @@ ul.tabs li a
     outline:none;
 } 
        
-ul.tabs li:last-child a
+#drugi > ul.tabs li:last-child a
 {
     border-right:none;
 }
-ul.tabs li:first-child a
+#drugi > ul.tabs li:first-child a
 {
     border-left:none;
 }
         
-ul.tabs li a:visited
+#drugi > ul.tabs li a:visited
 {
     color: #000;
 }
         
-ul.tabs li a:hover
+#drugi > ul.tabs li a:hover
 {
     text-decoration: none;
     color:#212121;
 }
 
-ul.tabs li.selected {
+#drugi > ul.tabs li.selected {
     bottom:-2px;
 }
         
-ul.tabs li.selected a, ul.tabs li.selected a:hover
+#drugi > ul.tabs li.selected a, ul.tabs li.selected a:hover
 {
     position: relative;
     top: 0px;
@@ -75,12 +77,13 @@ ul.tabs li.selected a, ul.tabs li.selected a:hover
 }
         
         
-ul.tabs li.selected a:hover
+#drugi > ul.tabs li.selected a:hover
 {
     text-decoration: none;
+    /*background: #8DB545;*/
 }
 
-div.tabcontents
+#drugi > div.tabcontents
 {
     border-top: 3px solid #8DB545;
     padding: 30px;
@@ -111,3 +114,93 @@ e.doktore{
 	text-align: center;
 	font-family: "Titillium Web", sans-serif;
 }*/
+
+/* TABI - ZDRAVJE */
+
+#tretji > ul.tabs
+{
+    padding: 8px 0;
+    font-size: 0;
+    margin:0;
+    list-style-type: none;
+    text-align: center; /*set to left, center, or right to align the tabs as desired*/
+    border-bottom: 3px solid #EDE0C0;
+    border-radius: 0%;
+}
+        
+#tretji > ul.tabs li
+{
+    display: inline;
+    margin: 0;
+    margin-right:-4px; /*distance between tabs*/
+}
+        
+#tretji > ul.tabs li a
+{
+    font: normal 24px "Titillium Web", sans-serif;
+    font-weight:400;
+    text-decoration: none;
+    position: relative;
+    padding: 8px 20px;
+    border-right: 3px solid #EDE0C0;
+    border-left: 3px solid #EDE0C0;
+    border-radius: 5%;
+    color: #F2FAE1;
+    background: #EBB260;
+    outline:none;
+} 
+       
+#tretji > ul.tabs li:last-child a
+{
+    border-right:none;
+}
+#tretji > ul.tabs li:first-child a
+{
+    border-left:none;
+}
+        
+#tretji > ul.tabs li a:visited
+{
+    color: #000;
+}
+        
+#tretji > ul.tabs li a:hover
+{
+    text-decoration: none;
+    color:#212121;
+}
+
+#tretji > ul.tabs li.selected {
+    bottom:-2px;
+}
+        
+#tretji > ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+    position: relative;
+    top: 0px;
+    font: normal 28px "Titillium Web", sans-serif;
+    font-weight:600;
+    /*font-weight:bold;*/
+    background: #DE952C;
+    color:White;
+    border-top: 3px solid #EDE0C0;
+    border-left: 3px solid #EDE0C0;
+    border-right: 3px solid #EDE0C0;
+    border-bottom: 3px solid #DE952C;
+    z-index:2;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+        
+        
+#tretji > ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+}
+
+#tretji > div.tabcontents
+{
+    border-top: 3px solid #DE952C;
+    padding: 30px;
+    background-color: #DE952C;
+}
