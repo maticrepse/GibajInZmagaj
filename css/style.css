@@ -14,7 +14,7 @@
 	min-height:400px;
 }
 
-.opisTabora{
+.pisava_besedilo{
 	color:white;
 	font-size: 20px;
 	text-align: left;
@@ -442,7 +442,7 @@ body {
 	padding-bottom: 65px;
 	padding-top: 90px;
 	position:absolute;
-	text-align: center;
+	/*text-align: center;*/
 	left: 0px;
     top: 0px;
 	z-index:1;
