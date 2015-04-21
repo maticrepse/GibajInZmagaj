@@ -13,6 +13,7 @@
 #drugi{
 	min-height:400px;
 }
+
 .opisTabora{
 	color:white;
 	font-size: 20px;
@@ -438,12 +439,15 @@ body {
 	}
 }
 #BUREK{
+	padding-bottom: 65px;
+	padding-top: 90px;
 	position:absolute;
+	text-align: center;
 	left: 0px;
     top: 0px;
 	z-index:1;
 	width:100%;
-	height:100%;
+	height: 100%;
 	background-color: #F9A731;
 }
 #slide-3 {
@@ -454,32 +458,44 @@ body {
 	padding: 0;
 	text-align: left;
 	width: 100%;
+	height: 100%;
+	padding-top: 90px;
 	/*height:902px; 
 	background-color:RED;*/
 }
+#tretji{
+	min-height:400px;
+	height:100%;
+}
+#slide-3 .col-12 {
+	/*
+	display: inline-block;
+	height: 451px;
+	margin: 0;
+	padding: 0;
+	width: 452px;
+	z-index:-1;
+	position:absolute;
+	*/
+	margin-top: -10px;
+}
+
+/*
 #slide-3 .row{
 	position:static;
 	z-index:-1;
-}
+}*/
 	
-	#slide-3 .col-12 {
-		display: inline-block;
-		height: 451px;
-		margin: 0;
-		padding: 0;
-		width: 452px;
-		/*z-index:-1;
-		position:absolute;*/
-	}
-
+	
+/*	
 	#slide-3 a,
 	#slide-3 img {
 		display: inline-block;
 		height: 100%;
 		margin: 0 auto;
 		width: 100%;
-		/*z-index:-1;
-		position:absolute;*/
+		z-index:-1;
+		position:absolute;
 	}
 	
 @media (max-width: 991px) {
@@ -514,7 +530,7 @@ body {
 		width: 100%;
 	}
 }
-
+*/
 #slide-4 {
 	padding-bottom: 65px;
 	background-color: #B2D076;
