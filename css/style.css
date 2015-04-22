@@ -20,6 +20,10 @@
 	text-align: left;
 	font-family: "Titillium Web", sans-serif;
 }
+.pisava_besedilo > ul {
+    list-style: square;
+}
+
 .doktore{
 	font-weight: 900;
 	font-size: 30px;

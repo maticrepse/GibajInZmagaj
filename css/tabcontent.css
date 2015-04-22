@@ -1,7 +1,7 @@
 /* Tab Content - menucool.com */
 
 /* TABI - TABOR */
-#drugi > ul.tabs
+#drugi ul.tabs
 {
     padding: 8px 0;
     font-size: 0;
@@ -12,14 +12,14 @@
     border-radius: 0%;
 }
         
-#drugi > ul.tabs li
+#drugi ul.tabs li
 {
     display: inline;
     margin: 0;
     margin-right:-4px; /*distance between tabs*/
 }
         
-#drugi > ul.tabs li a
+#drugi ul.tabs li a
 {
     font: normal 24px "Titillium Web", sans-serif;
     font-weight:400;
@@ -34,31 +34,31 @@
     outline:none;
 } 
        
-#drugi > ul.tabs li:last-child a
+#drugi ul.tabs li:last-child a
 {
     border-right:none;
 }
-#drugi > ul.tabs li:first-child a
+#drugi ul.tabs li:first-child a
 {
     border-left:none;
 }
         
-#drugi > ul.tabs li a:visited
+#drugi ul.tabs li a:visited
 {
     color: #000;
 }
         
-#drugi > ul.tabs li a:hover
+#drugi ul.tabs li a:hover
 {
     text-decoration: none;
     color:#212121;
 }
 
-#drugi > ul.tabs li.selected {
+#drugi ul.tabs li.selected {
     bottom:-2px;
 }
         
-#drugi > ul.tabs li.selected a, ul.tabs li.selected a:hover
+#drugi ul.tabs li.selected a, ul.tabs li.selected a:hover
 {
     position: relative;
     top: 0px;
@@ -76,14 +76,14 @@
     border-top-right-radius: 10%;
 }
         
-        
-#drugi > ul.tabs li.selected a:hover
+    
+#drugi ul.tabs li.selected a:hover
 {
     text-decoration: none;
     /*background: #8DB545;*/
 }
 
-#drugi > div.tabcontents
+#drugi div.tabcontents
 {
     border-top: 3px solid #8DB545;
     padding: 30px;
@@ -117,7 +117,7 @@ e.doktore{
 
 /* TABI - ZDRAVJE */
 
-#tretji > ul.tabs
+#tretji ul.tabs
 {
     padding: 8px 0;
     font-size: 0;
@@ -128,14 +128,14 @@ e.doktore{
     border-radius: 0%;
 }
         
-#tretji > ul.tabs li
+#tretji ul.tabs li
 {
     display: inline;
     margin: 0;
     margin-right:-4px; /*distance between tabs*/
 }
         
-#tretji > ul.tabs li a
+#tretji ul.tabs li a
 {
     font: normal 24px "Titillium Web", sans-serif;
     font-weight:400;
@@ -150,31 +150,31 @@ e.doktore{
     outline:none;
 } 
        
-#tretji > ul.tabs li:last-child a
+#tretji ul.tabs li:last-child a
 {
     border-right:none;
 }
-#tretji > ul.tabs li:first-child a
+#tretji ul.tabs li:first-child a
 {
     border-left:none;
 }
         
-#tretji > ul.tabs li a:visited
+#tretji ul.tabs li a:visited
 {
     color: #000;
 }
         
-#tretji > ul.tabs li a:hover
+#tretji ul.tabs li a:hover
 {
     text-decoration: none;
     color:#212121;
 }
 
-#tretji > ul.tabs li.selected {
+#tretji ul.tabs li.selected {
     bottom:-2px;
 }
         
-#tretji > ul.tabs li.selected a, ul.tabs li.selected a:hover
+#tretji ul.tabs li.selected a, ul.tabs li.selected a:hover
 {
     position: relative;
     top: 0px;
@@ -193,14 +193,38 @@ e.doktore{
 }
         
         
-#tretji > ul.tabs li.selected a:hover
+#tretji ul.tabs li.selected a:hover
 {
     text-decoration: none;
 }
 
-#tretji > div.tabcontents
+#tretji div.tabcontents
 {
     border-top: 3px solid #DE952C;
     padding: 30px;
     background-color: #DE952C;
+}
+
+#tretji .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 15px;
+    font-weight: normal;
+    text-decoration: none;
+    position: absolute;
+    border: 3px solid #EDE0C0;
+    background: #EBB260;
+    
+}
+#tretji .dropdown:hover .dropdown-menu li a {
+    border: none;
+    font-weight: normal;
+    font-size: 20px;
+    border-radius: 5%;
+}
+#tretji .dropdown:hover .dropdown-menu li:nth-child(2) a {
+    border-bottom: 3px dotted #EDE0C0;
+    border-radius: 0;
+}
+#tretji .dropdown:hover .dropdown-menu li:hover a {
+    color: #5C4D34;
 }
