@@ -50,14 +50,17 @@ $(document).ready(function(e) {
 	* = Controls active menu *
 	* Hover text for the last slide
 	*************************/
+	/* 
 	$('#slide-3 img').each(function(index, element) {
 		var time = new Date().getTime();
 		var oldHref = $(this).attr('src');
 		var myImg = $('<img />').attr('src', oldHref + '?' + time );
 		
+	
 		myImg.load(function(e) {
-			img_loaded += 1;;
+			img_loaded += 1;
 			if ( img_loaded == $('#slide-3 img').length ) {
+	*/			
 				$(function() {
 					var pause = 10;
 					$(document).scroll(function(e) {
@@ -84,9 +87,9 @@ $(document).ready(function(e) {
 					});
 					$(document).scroll();
 				});
-			}
-		});
-	});
+//			}
+//		});
+//	});
 	
 });
 
