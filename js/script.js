@@ -265,7 +265,7 @@ jQuery(document).ready(function ($) {
 			var asta = $(this).find('img');
 			$('#slide-3 img').not( asta ).stop(false, false).animate(
 				{
-					opacity: .5
+					opacity: 1
 				},
 				'fast',
 				'linear'
