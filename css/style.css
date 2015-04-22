@@ -28,6 +28,9 @@
 	font-weight: 900;
 	font-size: 30px;
 }
+.pisava_temna {
+	color: #75644A;
+}
 #map-input{
 	color:white;
 	font-size: 30px;
@@ -60,6 +63,10 @@
 	}
 }
 
+#hrana{
+	width: 50%;
+	height: 100%;
+}
 
 #penus {
 	max-width: 1024px !important;

@@ -207,7 +207,7 @@ e.doktore{
 
 #tretji .dropdown:hover .dropdown-menu {
     display: block;
-    margin-top: 15px;
+    margin-top: 17px;
     font-weight: normal;
     text-decoration: none;
     position: absolute;
@@ -215,16 +215,26 @@ e.doktore{
     background: #EBB260;
     
 }
+
 #tretji .dropdown:hover .dropdown-menu li a {
     border: none;
     font-weight: normal;
     font-size: 20px;
     border-radius: 5%;
 }
+/*
 #tretji .dropdown:hover .dropdown-menu li:nth-child(2) a {
     border-bottom: 3px dotted #EDE0C0;
     border-radius: 0;
-}
+}*/
 #tretji .dropdown:hover .dropdown-menu li:hover a {
     color: #5C4D34;
+}
+#tretji hr {
+    width: 90%;
+    display: block; 
+    border: 0; border-top: 2px solid #EDE0C0;
+    margin-top:3px;
+    margin-bottom: 0;
+    position: relative;
 }

@@ -388,6 +388,7 @@ function initialize() {
 	
 }
 //google.maps.event.addDomListener(window, 'load', initialize);
+/* end google maps */
 
 neki=1
 function loadScript() {
@@ -407,5 +408,3 @@ function kliknLink(){
 	var win = window.open('http://www.rogla.eu/si/aktivnosti', '_blank');
 	win.focus();
 }
-
-/* end google maps */

@@ -259,14 +259,14 @@
 	            <li class="selected"><a href="#view2_1">Gibanje</a></li>
 	            <!--li><a href="#view2_2">Prehrana</a></li-->
 	            
-			    <li class="dropdown"> <a href="#view2_2" data-toggle="dropdown" class="dropdown-toggle">Prehrana <b class="caret"></b></a>
+			    <li class="dropdown" id="dropdownID"> <a href="#view2_2" data-toggle="dropdown" class="dropdown-toggle" onclick="click()">Prehrana <b class="caret"></b></a>
 			
 			        <ul class="dropdown-menu" id="menu1">
 			            <li><a href="#view2_2_1">Uravnotežena prehrana</a>
 			            </li>
 			            <li><a href="#view2_2_2">Zdravo hujšanje</a>
 			            </li>
-			            <li class="divider"></li>
+			           	<hr>
 			            <li><a href="#view2_2_3">OGLJIKOVI HIDRATI</a>
 			            </li>
 			            <li><a href="#view2_2_4">BELJAKOVINE</a>
@@ -279,13 +279,7 @@
 			            </li>
 			        </ul>
 			    </li>
-				
-	            
-	            
-	            
-	            
-	            
-	            
+
 	            <li><a href="#view2_3">Motivacija</a></li> 
 	            <li><a href="#view2_4">Zabava</a></li> 
         	</ul> 
@@ -312,31 +306,81 @@
 						Priporočena količina zmerne aktivnosti je vsaj 60 min na dan (smernice WHO-ja). Pri tem gre za
 						intenzivnost, kjer se otroci zadihajo, se znojijo in se jim pospeši srčni utrip. Priporoča se čim bolj
 						pester spekter gibalnih aktivnosti, pri čemer pa naj bi bili vsaj dve uri tedensko namenjeni treningu za
-						razvoj moči in gibljivosti.<br>
+						razvoj moči in gibljivosti.<br><br>
+						<img src="/GibajInZmagaj/images/plavalec.jpg" style="width:100%; border:3px solid #AD7815">
 					</span>
 	            </div>
 	            <div id="view2_2_1">
+	            	<div class="row">
+	            		<div class="col-lg-6 col-sm-12" id="hrana">
+	            			<img src="/GibajInZmagaj/images/hranilne_vrednosti.png" style="width:100%; border:3px solid #AD7815">
+	            		</div>
+		            	<div class="col-lg-6 col-sm-12"><span class="pisava_besedilo">
+							Zdrava prehrana je osnova za ohranjanje zdravja, boljše počutje in kvalitetno življenje. Že od otroštva
+							naprej lahko z uravnoteženo prehrano in zdravim načinom življenja zmanjšamo tveganje za nastanek s
+							prehrano pogojenih bolezni in vplivamo na dolžino ter kvaliteto življenja. Način prehranjevanja lahko
+							deluje kot dejavnik tveganja, ki ogroža zdravje posameznika, oziroma kot zaščitni dejavnik , ki krepi
+							zdravje in izboljša kvaliteto življenja. Dokazano je, da dejavniki nezdravega življenjskega sloga
+							(prehrana, telesna nedejavnost, alkohol, tobak, stres) spadajo med ključne vzroke za nastanek
+							najpomembnejših kroničnih nenalezljivih bolezni. Temeljni cilj zdrave prehrane je ohranjanje in
+							izboljševanje zdravja in s tem kakovosti življenja. Na prehranjevanje in stanje hranjenosti imajo
+							pomemben vpliv fiziološki, psihološki, ekonomski in socialni dejavniki. Zdrava prehrana vključuje
+							varno, energijsko in hranilno uravnoteženo, varovalno in biološko sprejemljivo hrano, ki ohranja in
+							krepi zdravje. Za dosego uravnotežene prehrane se poslužujemo normativov oziroma referenčnih
+							vrednosti za vnos hranljivih snovi, ki pa so specifični glede na spol, starost, telesno dejavnost in druga
+							stanja.<br><br>
+							Referenčnih vrednosti ni mogoče in niti ni potrebno dosegati vsak dan, niti ne proporcionalno z
+							vsakim obrokom. Priporočljivo pa je doseganje na tedenski ravni. Neustrezno prehranjevanje vodi do
+							deficita posameznih hranil, kar pa je lahko posledica neprimerne izbire živil oziroma neprimerne
+							sestave in razporeditve obrokov. Temelj zdravega prehranjevanja je pestra in raznolika prehrana. Vsak
+							dan vnašamo v telo 6 glavnih hranil. To so ogljikovi hidrati, beljakovine, maščobe, vitamini, minerali
+							in voda. Vsi ti nutrienti so nujno potrebni za normalno delovanje telesa, zato jih mora imeti telo vsak
+							dan.<br><br>
+		            	</span></div>
+							<img src="/GibajInZmagaj/images/happy-kids-watermelon.jpg" style="width:100%; border:3px solid #AD7815">
+	            	</div>
+	            </div>
+	           	<div id="view2_2_2">
 	            	<span class="pisava_besedilo">
-						Zdrava prehrana je osnova za ohranjanje zdravja, boljše počutje in kvalitetno življenje. Že od otroštva
-						naprej lahko z uravnoteženo prehrano in zdravim načinom življenja zmanjšamo tveganje za nastanek s
-						prehrano pogojenih bolezni in vplivamo na dolžino ter kvaliteto življenja. Način prehranjevanja lahko
-						deluje kot dejavnik tveganja, ki ogroža zdravje posameznika, oziroma kot zaščitni dejavnik , ki krepi
-						zdravje in izboljša kvaliteto življenja. Dokazano je, da dejavniki nezdravega življenjskega sloga
-						(prehrana, telesna nedejavnost, alkohol, tobak, stres) spadajo med ključne vzroke za nastanek
-						najpomembnejših kroničnih nenalezljivih bolezni. Temeljni cilj zdrave prehrane je ohranjanje in
-						izboljševanje zdravja in s tem kakovosti življenja. Na prehranjevanje in stanje hranjenosti imajo
-						pomemben vpliv fiziološki, psihološki, ekonomski in socialni dejavniki. Zdrava prehrana vključuje
-						varno, energijsko in hranilno uravnoteženo, varovalno in biološko sprejemljivo hrano, ki ohranja in
-						krepi zdravje. Za dosego uravnotežene prehrane se poslužujemo normativov oziroma referenčnih
-						vrednosti za vnos hranljivih snovi, ki pa so specifični glede na spol, starost, telesno dejavnost in druga
-						stanja.<br><br>
-						Referenčnih vrednosti ni mogoče in niti ni potrebno dosegati vsak dan, niti ne proporcionalno z
-						vsakim obrokom. Priporočljivo pa je doseganje na tedenski ravni. Neustrezno prehranjevanje vodi do
-						deficita posameznih hranil, kar pa je lahko posledica neprimerne izbire živil oziroma neprimerne
-						sestave in razporeditve obrokov. Temelj zdravega prehranjevanja je pestra in raznolika prehrana. Vsak
-						dan vnašamo v telo 6 glavnih hranil. To so ogljikovi hidrati, beljakovine, maščobe, vitamini, minerali
-						in voda. Vsi ti nutrienti so nujno potrebni za normalno delovanje telesa, zato jih mora imeti telo vsak
-						dan.<br>
+						<span class="doktore">KORISTNI NASVETI ZA ZDRAVO HUJŠANJE&nbsp</span><br><br>
+							<ul>
+								<li>Obvezno zajtrkujte, da dan pričnete polni energije. Telo preko noči porabi hranila, ki ste jih
+									zaužili do spanja. Zjutraj telo potrebuje veliko energije.</li>
+								<li>Hrana mora biti raznolika in pestra. Le tako lahko zagotovimo zadosten vnos vseh hranil, ki
+									jih naše telo potrebuje.</li>
+								<li>Izogibajte se živilom s sladkorjem in sladkanim pijačam. Sladkor je eden izmed glavnih
+									vzrokov debelosti.</li>
+								<li>Jejte večkrat dnevno. Če telo večkrat dnevno prejme hrano, obdrži kar rabi, ostalo pa izloči.
+									Če jeste dvakrat ali pa celo samo enkrat dnevno, telo dela zalogo. Pogosto hranjenje ugodno
+									vpliva tudi na prebavo.</li>
+								<li>Obroke planirajte vnaprej, saj se boste na ta način izognili zaužitju hrane, ki je ne potrebujete.</li>
+								<li>Popularne diete so slabe in v večini primerov se pojavi jo-jo efekt. Vse so kratkoročne narave
+									in stradajo vaše telo.</li>
+								<li>Jejte veliko sadja, zelenjave in žitaric. So velik vir vlaknin in ugodno vplivajo na prebavo.</li>
+								<li>Uživajte vlaknine, saj se boste nasitili hitreje in za dalj časa, s tem pa boste preprečili
+									morebitno prenajedanje.</li>
+								<li>Izogibajte se pitju alkoholnih, sladkanih in gaziranih pijač. Naše telo je v večjem delu
+									sestavljeno iz vode, zato naj bo navadna voda osnovno sredstvo za zagotavljanje zadostne
+									hidracije telesa.</li>
+								<li>Hrane ni potrebno dodatno soliti, saj je natrija v živilih dovolj.</li>
+								<li>V nakupovalnem centru kupite samo stvari, ki si jih doma napišete na listek. S tem se boste
+									izognili kupovanju hrane, ki je ne potrebujete. V živilske prodajalne pojdite siti, saj tako
+									kupite manj.</li>
+								<li>Berite etikete. Nekatera živila proti pričakovanjem vsebujejo ogromno sladkorja.</li>
+								<li>Maščoba, ki jo pri prehranjevanju uživate, naj bo pretežno nenasičena oziroma zdrava. 
+									Najboljši viri nenasičene maščobe so najrazličnejša olja, oreščki in ribe.</li>
+								<li>Jedi naj bodo pripravljene na pari, v pečici ali na žaru.</li>
+								<li>Vsake toliko časa si privoščite pregreho. S tem se nagradite za vztrajanje pri zdravi prehrani.</li>
+								<li>Če se odločite zmanjšati količino kakšnega hranila, je v redu. Nikakor ga povsem ne izločite
+									iz prehrane.</li>
+								<li>Porcije naj bodo zmerne. Telo se bo hitro navadilo na manjše porcije.</li>
+								<li>Pred obrokom spijte 3 dcl mlačne vode. Tako boste pojedli manj.</li>
+								<li>Ne hitite s hranjenjem. Jejte počasi in z užitkom. Če vam to ne gre, jejte obroke z malo žlico
+									oziroma vilico.</li>
+								<li>Ogljikovi hidrati naj se pretežno uživajo za zajtrk in preko dopoldneva. Bolj ko se dan bliža
+									večeru, manj OH pojejte.</li>
+								<li>Po treningu lahko jeste tudi živila z enostavnimi sladkorji, seveda v zelo zmernih količinah.</li>
+							</ul>
 	            	</span>
 	            </div>
 	            <div id="view2_2_3">
@@ -345,16 +389,73 @@
 						Ogljikovi hidrati so skupina kemičnih spojin, ki vsebujejo kisikove, vodikove in ogljikove atome.
 						Delijo se na dve skupini: enostavni in sestavljeni. Za naše telo so osnovni in hkrati nepogrešljiv vir
 						energije.<br><br>
-						<b>Enostavni ogljikovi hidrati:</b> sadje, nekatera zelenjava, beli sladkor, pivo, med, mleko, mlečni
+						<span class="pisava_temna"><b>Enostavni ogljikovi hidrati:</b></span> sadje, nekatera zelenjava, beli sladkor, pivo, med, mleko, mlečni
 						izdelki,… (monosaharidi in disaharidi). So najhitreje prebavljivi in nam dajo energijo hitro in se
 						porabijo v kratkem časovnem obdobju.<br><br>
-						<b>Sestavljeni ogljikovi hidrati:</b> žitarice, nekatero sadje in zelenjava, rjavi riž, vlaknine,…(polisaharidi)
+						<span class="pisava_temna"><b>Sestavljeni ogljikovi hidrati:</b></span> žitarice, nekatero sadje in zelenjava, rjavi riž, vlaknine,…(polisaharidi)
 						Sestavljeni ogljikovi hidrati predstavljajo dolgotrajen priliv energije telesu in zagotavljajo enakomerno
 						porabo telesnih zalog glikogena.
 						Energijska vrednost ogljikovih hidratov, ne glede na obliko, znaša 4 kalorije/gram.<br>
 	            	</span>
 	            </div>
-	            
+	             <div id="view2_2_4">
+	            	<span class="pisava_besedilo">
+						<span class="doktore">KAJ SO BELJAKOVINE?&nbsp</span><br><br>
+						Beljakovine oskrbujejo organizem z aminokislinami in drugimi dušikovimi spojinami, ki so potrebne
+						za proizvodnjo telesu lastnih beljakovin in drugih metabolično aktivnih substanc. Beljakovine so
+						telesu potrebne za rast, razvoj in obnavljanje. Potrebe po beljakovinah se s starostjo spreminjajo.
+						Bogat vir beljakovin so živila živalskega izvora. Med živili rastlinskega izvora pa največ beljakovin
+						vsebujejo zrna stročnic.<br><br>
+						<span class="pisava_temna"><b>Beljakovine živalskega izvora:</b></span> meso (svinjsko, goveje, divjačina), perutnina, ribe, mesni izdelki vseh
+						vrst, mleko, mlečni izdelki in jajca.<br><br>
+						<span class="pisava_temna"><b>Beljakovine rastlinskega izvora:</b></span> stročnice (fižol, leča, grah, soja…) ter žita in izdelki iz žit.<br><br>
+						Energijska vrednost beljakovin, ne glede na izvor, znaša 4 kalorije/gram.<br>
+	            	</span>
+	            </div>
+	            <div id="view2_2_5">
+	            	<span class="pisava_besedilo">
+						<span class="doktore">KAJ SO MAŠČOBE?&nbsp</span><br><br>
+						Maščobe vsebujejo življenjsko pomembne maščobne kisline, pospešujejo absorbcijo v maščobah
+						topnih vitaminov (A,D,E,K), povečujejo energijsko gostoto hrane ter izboljšujejo konsistenco, vonj in
+						okus živil. Osnovna delitev maščob je na nenasičene in nasičene.<br><br>
+						<span class="pisava_temna"><b>Nezdrave</b></span> oziroma <span class="pisava_temna"><b>nasičene maščobe</b></span> so škodljive, saj povzročajo bolezni srca in ožilja, poleg tega pa
+						tudi zvišujejo vrednosti nezdravega holesterola v krvi. Nahajajo se v živilih živalskega izvora, kot so
+						npr.: polnomastni sir, smetana, maslo ter mastno meso. Poleg tega pa se nahajajo tudi v najrazličnejših
+						sladkarijah in v hitro pripravljeni hrani ( t.i. fast food). Priporočljivo je, da jih v dnevni prehrani
+						zaužijemo čim manj.<br><br>
+						<span class="pisava_temna"><b>Zdrave</b></span> oziroma <span class="pisava_temna"><b>nenasičene maščobe</b></span> zdravju niso škodljive, v kolikor jih uživamo v mejah
+						priporočenih vrednosti, saj dokazano pozitivno vplivajo na zdravje srca in ožilja, poleg tega pa
+						znižujejo vrednosti slabega holesterola v krvi. Najdemo jih v ribah, v nekaterih vrstah rastlinskega olja
+						(olivno, sončnično), oreščkih, avokadu…<br><br>
+						Energijska vrednost maščobe, ne glede na obliko, znaša 9 kalorij/gram.<br>
+	            	</span>
+	            </div>
+	            <div id="view2_2_6">
+	            	<span class="pisava_besedilo">
+						<span class="doktore">KAJ SO VITAMINI IN MINERALI?&nbsp</span><br><br>
+						<span class="pisava_temna"><b>Vitamini</b></span> so snovi, ki jih telo nujno potrebuje za normalno delovanje, saj sodelujejo v številnih telesnih
+						procesih. Vključeni so v metabolizem ogljikovih hidratov, maščob, beljakovin in nukleinskih kislin.
+						Ker jih v veliki večini telo ne more sintetizirati, je nadvse pomembno, da jih vnašamo s hrano. Hrana
+						mora biti raznolika, saj je eden izmed vzrokov pomanjkanja vitaminov enolična prehrana. Vitamine
+						delimo v 2 skupini, in sicer: vitamine, ki so topni v maščobah (A, D, E in K) ter vitamine, ki so topni v
+						vodi (B kompleks in C).<br><br>
+						Minerali so snovi, ki so tako kot vitamini, potrebne za normalno delovanje organizma, največkrat pa
+						so v obliki soli. Telo samo ne more proizvajati nobenega minerala, tako da moramo prav vse zaužiti s
+						pestro in raznovrstno prehrano.<br>
+	            	</span>
+	            </div>
+	            <div id="view2_2_7">
+	            	<span class="pisava_besedilo">
+						<span class="doktore">ZAKAJ JE POMEMBNA VODA?&nbsp</span><br><br>
+						<span class="pisava_temna"><b>Voda</b></span> je vir življenja. Od 70-75 odstotkov človekovega telesa predstavlja voda in to presenetljivo
+						dejstvo nakazuje na velik pomen vode v našem življenju. Voda pozitivno vpliva na naše zdravje in
+						psiho-fizično počutje. Ker človekovo telo nima zalog tekočine, jo moramo vsak dan znova vnašati v
+						telo. Dva in pol litra vode sta minimum, ki naj bi ga užili ljudje, ki opravljajo pretežno sedeče poklice
+						in niso fizično aktivni. Pri telesno aktivnih ljudeh pa se priporoča, da spijejo še dodaten liter vode
+						dnevno.<br>
+	            	</span>
+	            </div>
+	           
 	            <div id="view2_3">
 	            	<span class="pisava_besedilo">
 	            		Motivacija je duševni proces, ki s pomočjo različnih motivov ali teženj (to so lahko potrebe, vrednote,
@@ -388,6 +489,8 @@
 							ciljev. Pogled na dobro delo, opravljeno v preteklosti, vas dodatno motivira in služi za
 							primerjavo.</li>
 						</ul>
+						<br>
+						<img src="/GibajInZmagaj/images/success-kid.jpg" style="width:100%; border:3px solid #AD7815">
 	            	</span>
 	            </div>
 	            <div id="view2_4">
@@ -402,19 +505,12 @@
 						Zdrav življenjski slog ponuja toliko pozitivnih stvari, da ga je enostavno potrebno uvesti v vaše
 						življenje. Negativnih učinkov ni. Če želite biti srečni in zadovoljni v svojem telesu, poskrbite zanj. Če
 						pomislimo, je naše telo edino mesto, kjer moramo živeti. Poskrbimo, da bo to mesto zdravja, sreče in
-						zadovoljstva.<br>
+						zadovoljstva.<br><br>
+						<img src="/GibajInZmagaj/images/plaza.jpg" style="width:100%; border:3px solid #AD7815">
 					</span>
 	            </div>
 	         </div>
-	         
-		</div>
-
-
-
-
-
-
-
+		</div><!-- /container3 -->
 	</div><!-- /slide3 -->
 	
 	
