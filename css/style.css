@@ -10,10 +10,6 @@
 	text-decoration: none;
 }*/
 
-#drugi{
-	min-height:400px;
-}
-
 .pisava_besedilo{
 	color:white;
 	font-size: 20px;
@@ -375,6 +371,7 @@ body {
 	background-color: #8FBD3D;
 	/*color: #e4e6e5;*/
 	padding-top: 90px;
+	min-height:100vh;
 }
 
 	.title-row {
@@ -468,10 +465,9 @@ body {
 	width: 100%;
 	background-color: #F9A731;
 	padding-top: 90px;
-	/*height:902px;*/ 
+	min-height:100vh;
 }
 #tretji{
-	min-height:400px;
 	height:100%;
 }
 #slide-3 .col-12 {
