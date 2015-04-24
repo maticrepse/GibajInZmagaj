@@ -1,6 +1,7 @@
 /* slider1 */
 #slider1 {
-    margin: 0 0 20px;
+    margin-top: 20px;
+    margin-bottom: -20px;
     overflow: hidden;
     padding: 0 40px;
     position: relative;
