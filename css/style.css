@@ -21,11 +21,15 @@
 }
 
 .doktore{
-	font-weight: 900;
+	font-weight: 800;
 	font-size: 30px;
+	/*color: #5D7543;*/
 }
-.pisava_temna {
+#tretji .pisava_temna {
 	color: #75644A;
+}
+#drugi .pisava_temna {
+	color: #576E3F;
 }
 #map-input{
 	color:white;
