@@ -557,6 +557,11 @@ body {
 	background-color: #F9B54F;
 	color: #e4e6e5;
 	padding-top: 90px;
+	min-height: 100vh;
+}
+
+#contact-row-4 {
+	top:10vh;
 }
 
 #slide-6 {
