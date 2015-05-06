@@ -74,50 +74,87 @@ body:after {
 }
 #myCarousel .img {
     position: center;
-    top: 0;
+    /*top: 0;
     left: 0;
-    width: 1440px !important;
+    /*width: 1440px !important;*/
     height: 600px !important;
 }
 #otroci1{
+    background-image: url('../images/naslovna_2.jpg');
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+	  background-attachment: relative;
+	  background-position: center center;
+	  padding-bottom: 0px;
+	  padding-top: 0px;
+	  text-align: center;
     z-index: 1;
 }
 
 @media (max-width: 767px) {
     #otroci1 {
-        content: url("../images/blank.gif");
-        background-image: url("../images/otroci1SMALL.png");
-        background-repeat: no-repeat;
-        background-size: initial;
+        
+        
         z-index: 1;
     }
 }
 #otroci2{
+    background-image: url('../images/naslovna_1.jpg');
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+	  background-attachment: relative;
+	  background-position: center center;
+	  padding-bottom: 0px;
+	  padding-top: 0px;
+	  text-align: center;
     z-index: 2;
 }
 
 @media (max-width: 767px) {
     #otroci2 {
-        content: url("../images/blank.gif");
-        background-image: url("../images/rogla1SMALL.png");
-        background-repeat: no-repeat;
-        background-size: initial;
+
         z-index: 2;
     }
 }
 #otroci3{
+    background-image: url('../images/naslovna_5.jpg');
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+	  background-attachment: relative;
+	  background-position: center center;
+	  padding-bottom: 0px;
+	  padding-top: 0px;
+	  text-align: center;
     z-index: 3;
 }
 
 @media (max-width: 767px) {
     #otroci3 {
-        content: url("../images/blank.gif");
-        background-image: url("../images/otroci2SMALL.png");
-        background-repeat: no-repeat;
-        background-size: initial;
+
         z-index: 3;
     }
 }
@@ -162,7 +199,7 @@ h1 {
   position:absolute;
   z-index:1029;
   color:#333;
-  top:70px;
+  top:75px;
   text-align:center;
   width:100%;
 }

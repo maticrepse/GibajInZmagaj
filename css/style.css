@@ -22,14 +22,23 @@
 
 .doktore{
 	font-weight: 800;
+	font-size: 25px;
+	/*color: #5D7543;*/
+}
+.doktore1{
+	font-weight: 800;
 	font-size: 30px;
 	/*color: #5D7543;*/
+}
+
+#drugi .pisava_temna {
+	color: #576E3F;
 }
 #tretji .pisava_temna {
 	color: #75644A;
 }
-#drugi .pisava_temna {
-	color: #576E3F;
+#cetrti .pisava_temna {
+	color: #647354;
 }
 #map-input{
 	color:white;
@@ -282,7 +291,7 @@ body {
 }
 
 #slide-1 {
-	/*background-image: url('../images/otroci1.jpg');*/
+	/*background-image: url('../images/naslovna_1.jpg');*/
 	background-color: #B2D076;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -372,7 +381,7 @@ body {
 
 #slide-2 {
 	padding-bottom: 65px;
-	background-color: #8FBD3D;
+	background-color: #91BA49;
 	/*color: #e4e6e5;*/
 	padding-top: 90px;
 	min-height:100vh;
@@ -422,6 +431,7 @@ body {
 	i {
 		font-size: 80px;
 		color: white;
+		
 	}
 	
 
@@ -541,15 +551,21 @@ body {
 */
 #slide-4 {
 	padding-bottom: 65px;
-	background-color: #B2D076;
+	background-color: #AAC76F;
 	color: #e4e6e5;
 	padding-top: 90px;
+	min-height:100vh;
 }
 
-#slide-4 i {
-		font-size: 80px;
+#slide-4 #rek {
+		font-size: 20px;
 		color: white;
-	}
+}
+
+#cetrti{
+	height:100%;
+}
+
 
 
 #slide-5 {

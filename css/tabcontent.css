@@ -65,12 +65,12 @@
     font: normal 28px "Titillium Web", sans-serif;
     font-weight:600;
     /*font-weight:bold;*/
-    background: #8DB545;
+    background: #8CAD4E;
     color:White;
     border-top: 3px solid #DEEDC0;
     border-left: 3px solid #DEEDC0;
     border-right: 3px solid #DEEDC0;
-    border-bottom: 3px solid #8DB545;
+    border-bottom: 3px solid #8CAD4E;
     z-index:2;
     border-top-left-radius: 10%;
     border-top-right-radius: 10%;
@@ -80,14 +80,14 @@
 #drugi ul.tabs li.selected a:hover
 {
     text-decoration: none;
-    /*background: #8DB545;*/
+    /*background: #8CAD4E;*/
 }
 
 #drugi div.tabcontents
 {
-    border-top: 3px solid #8DB545;
+    border-top: 3px solid #8CAD4E;
     padding: 30px;
-    background-color: #8DB545;
+    background-color: #8CAD4E;
 }
 #drugi {
     width: 100%;
@@ -237,4 +237,95 @@ e.doktore{
     margin-top:3px;
     margin-bottom: 0;
     position: relative;
+}
+
+/* TABI - DRUSTVO */
+
+#cetrti ul.tabs
+{
+    padding: 8px 0;
+    font-size: 0;
+    margin:0;
+    list-style-type: none;
+    text-align: center; /*set to left, center, or right to align the tabs as desired*/
+    border-bottom: 3px solid #DEEDC0;
+    border-radius: 0%;
+}
+        
+#cetrti ul.tabs li
+{
+    display: inline;
+    margin: 0;
+    margin-right:-4px; /*distance between tabs*/
+}
+        
+#cetrti ul.tabs li a
+{
+    font: normal 24px "Titillium Web", sans-serif;
+    font-weight:400;
+    text-decoration: none;
+    position: relative;
+    padding: 8px 20px;
+    border-right: 3px solid #DEEDC0;
+    border-left: 3px solid #DEEDC0;
+    border-radius: 5%;
+    color: #F2FAE1;
+    background: #A6BD79;
+    outline:none;
+} 
+       
+#cetrti ul.tabs li:last-child a
+{
+    border-right:none;
+}
+#cetrti ul.tabs li:first-child a
+{
+    border-left:none;
+}
+        
+#cetrti ul.tabs li a:visited
+{
+    color: #000;
+}
+        
+#cetrti ul.tabs li a:hover
+{
+    text-decoration: none;
+    color:#212121;
+}
+
+#cetrti ul.tabs li.selected {
+    bottom:-2px;
+}
+        
+#cetrti ul.tabs li.selected a, ul.tabs li.selected a:hover
+{
+    position: relative;
+    top: 0px;
+    font: normal 28px "Titillium Web", sans-serif;
+    font-weight:600;
+    /*font-weight:bold;*/
+    background: #98B362;
+    color:White;
+    border-top: 3px solid #DEEDC0;
+    border-left: 3px solid #DEEDC0;
+    border-right: 3px solid #DEEDC0;
+    border-bottom: 3px solid #98B362;
+    z-index:2;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+        
+    
+#cetrti ul.tabs li.selected a:hover
+{
+    text-decoration: none;
+    /*background: #98B362;*/
+}
+
+#cetrti div.tabcontents
+{
+    border-top: 3px solid #98B362;
+    padding: 30px;
+    background-color: #98B362;
 }
