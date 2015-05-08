@@ -80,7 +80,7 @@ body:after {
     height: 600px !important;
 }
 #otroci1{
-    background-image: url('../images/naslovna_2.jpg');
+    background-image: url('../images/naslovna_2SMALL.jpg');
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
@@ -133,7 +133,7 @@ body:after {
     }
 }
 #otroci3{
-    background-image: url('../images/naslovna_5.jpg');
+    background-image: url('../images/naslovna_5SMALL.jpg');
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
     -o-background-size: 100%;
