@@ -9,9 +9,9 @@ setInterval(function(){
     var z=w/2-464;
     z=100*z/w;
     if(y==z){
-        document.getElementById("penus").style.marginLeft = z+"%";
+        document.getElementById("sirinaNavbar").style.marginLeft = z+"%";
     }else {
-        document.getElementById("penus").style.marginLeft = y + "%";
+        document.getElementById("sirinaNavbar").style.marginLeft = y + "%";
     }
 },500);
 
