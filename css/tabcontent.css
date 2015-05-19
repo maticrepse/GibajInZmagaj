@@ -32,7 +32,13 @@
     color: #F2FAE1;
     background: #A0C35C;
     outline:none;
-} 
+}
+@media (max-width: 767px) {
+    #drugi ul.tabs li a{
+        width:100%;
+        display: inline-block;
+    }
+}
        
 #drugi ul.tabs li:last-child a
 {
@@ -148,7 +154,13 @@ e.doktore{
     color: #F2FAE1;
     background: #EBB260;
     outline:none;
-} 
+}
+@media (max-width: 767px) {
+    #tretji ul.tabs li a{
+        width:100%;
+        display: inline-block;
+    }
+}
        
 #tretji ul.tabs li:last-child a
 {
@@ -272,8 +284,14 @@ e.doktore{
     color: #F2FAE1;
     background: #A6BD79;
     outline:none;
-} 
-       
+}
+@media (max-width: 767px) {
+    #cetrti ul.tabs li a{
+        width:100%;
+        display: inline-block;
+    }
+}
+
 #cetrti ul.tabs li:last-child a
 {
     border-right:none;
