@@ -37,6 +37,8 @@
     #drugi ul.tabs li a{
         width:100%;
         display: inline-block;
+        border-right: none;
+        border-left: none;
     }
 }
        
@@ -159,6 +161,8 @@ e.doktore{
     #tretji ul.tabs li a{
         width:100%;
         display: inline-block;
+        border-right: none;
+        border-left: none;
     }
 }
        
@@ -289,6 +293,8 @@ e.doktore{
     #cetrti ul.tabs li a{
         width:100%;
         display: inline-block;
+        border-right: none;
+        border-left: none;
     }
 }
 
