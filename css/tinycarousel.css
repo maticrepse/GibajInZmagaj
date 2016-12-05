@@ -68,4 +68,7 @@
     /*border: 1px solid #dcdcdc;*/
     width: 331px;
 }
+.sponzor {
+    width: inherit;
+}
 

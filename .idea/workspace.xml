@@ -2,9 +2,183 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="415df10c-d578-4647-8b48-9a0822c2ef07" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/zakomentirano" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/blank.gif" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_loading@2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/fancybox_sprite@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/135_443_paragraph.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/135_443_paragraph.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/Logo.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/Logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/SummerCamp-Picture.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/SummerCamp-Picture.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/bg1.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/bg1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/blank.gif" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/client01.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/client01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/client02.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/client02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/client03.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/client03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/client04.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/client04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/edo.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/edo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/f696.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/f696.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/happy-kids-watermelon.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/happy-kids-watermelon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/manjLogo.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/manjLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/marko.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/marko.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/najmanjLogo.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/najmanjLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/naslovna_1.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/naslovna_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/naslovna_2.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/naslovna_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1Normal.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1Normal.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1SMALL.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci1SMALL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci2.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci2SMALL.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/otroci2SMALL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p01-large.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p01-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p01-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p01-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p02-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p02-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p03-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p03-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p04-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p04-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p05-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p05-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p06-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p06-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p07-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p07-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p08-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p08-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p09-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p09-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p10-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p10-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p11-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p11-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p12-small.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/portfolio/p12-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/rogla1.jpg" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/rogla1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/sponzor1.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/sponzor1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/images/website-arrows.png" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/images/website-arrows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/blank.gif" afterPath="$PROJECT_DIR$/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/fancybox_loading.gif" afterPath="$PROJECT_DIR$/fancybox/fancybox_loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/fancybox_loading@2x.gif" afterPath="$PROJECT_DIR$/fancybox/fancybox_loading@2x.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/fancybox_overlay.png" afterPath="$PROJECT_DIR$/fancybox/fancybox_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/fancybox_sprite.png" afterPath="$PROJECT_DIR$/fancybox/fancybox_sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/fancybox_sprite@2x.png" afterPath="$PROJECT_DIR$/fancybox/fancybox_sprite@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/fontawesome-webfont-.eot" afterPath="$PROJECT_DIR$/font/fontawesome-webfont-.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.eot" afterPath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.ttf" afterPath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.woff" afterPath="$PROJECT_DIR$/font/fontawesome-webfont-v=3.2.1.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Logo.png" afterPath="$PROJECT_DIR$/images/Logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Maredo_logo_bela.jpg" afterPath="$PROJECT_DIR$/images/Maredo_logo_bela.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/SummerCamp-Picture.jpg" afterPath="$PROJECT_DIR$/images/SummerCamp-Picture.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg1.jpg" afterPath="$PROJECT_DIR$/images/bg1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/blank.gif" afterPath="$PROJECT_DIR$/images/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/client01.png" afterPath="$PROJECT_DIR$/images/client01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/client02.png" afterPath="$PROJECT_DIR$/images/client02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/client03.png" afterPath="$PROJECT_DIR$/images/client03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/client04.png" afterPath="$PROJECT_DIR$/images/client04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/client05.png" afterPath="$PROJECT_DIR$/images/client05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/edo.jpg" afterPath="$PROJECT_DIR$/images/edo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/f696.jpg" afterPath="$PROJECT_DIR$/images/f696.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/favicon.ico" afterPath="$PROJECT_DIR$/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/happy-kids-watermelon.jpg" afterPath="$PROJECT_DIR$/images/happy-kids-watermelon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/healthykids.jpg" afterPath="$PROJECT_DIR$/images/healthykids.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/hranilne_vrednosti.png" afterPath="$PROJECT_DIR$/images/hranilne_vrednosti.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/lokacija.jpg" afterPath="$PROJECT_DIR$/images/lokacija.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/manjLogo.png" afterPath="$PROJECT_DIR$/images/manjLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/marko.jpg" afterPath="$PROJECT_DIR$/images/marko.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/najmanjLogo.png" afterPath="$PROJECT_DIR$/images/najmanjLogo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_1.jpg" afterPath="$PROJECT_DIR$/images/naslovna_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_2.jpg" afterPath="$PROJECT_DIR$/images/naslovna_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_2SMALL.jpg" afterPath="$PROJECT_DIR$/images/naslovna_2SMALL.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_3.jpg" afterPath="$PROJECT_DIR$/images/naslovna_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_4.jpg" afterPath="$PROJECT_DIR$/images/naslovna_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/naslovna_5.jpg" afterPath="$PROJECT_DIR$/images/naslovna_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/oTaboru.jpg" afterPath="$PROJECT_DIR$/images/oTaboru.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/otroci1.jpg" afterPath="$PROJECT_DIR$/images/otroci1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/otroci1Normal.jpg" afterPath="$PROJECT_DIR$/images/otroci1Normal.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/otroci2.jpg" afterPath="$PROJECT_DIR$/images/otroci2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/otroci2Normal.jpg" afterPath="$PROJECT_DIR$/images/otroci2Normal.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/otroci2SMALL.png" afterPath="$PROJECT_DIR$/images/otroci2SMALL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/plavalec.jpg" afterPath="$PROJECT_DIR$/images/plavalec.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/plaza.jpg" afterPath="$PROJECT_DIR$/images/plaza.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p01-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p01-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p01-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p01-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p02-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p02-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p02-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p02-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p03-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p03-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p03-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p03-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p04-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p04-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p04-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p04-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p05-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p05-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p05-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p05-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p06-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p06-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p06-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p06-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p07-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p07-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p07-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p07-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p08-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p08-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p08-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p08-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p09-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p09-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p09-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p09-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p10-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p10-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p10-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p10-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p11-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p11-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p11-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p11-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p12-large.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p12-large.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/portfolio/p12-small.jpg" afterPath="$PROJECT_DIR$/images/portfolio/p12-small.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/rogla1.jpg" afterPath="$PROJECT_DIR$/images/rogla1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/rogla1SMALL.png" afterPath="$PROJECT_DIR$/images/rogla1SMALL.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sponzor1.png" afterPath="$PROJECT_DIR$/images/sponzor1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/success-kid.jpg" afterPath="$PROJECT_DIR$/images/success-kid.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/website-arrows.png" afterPath="$PROJECT_DIR$/images/website-arrows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/.nakignore" afterPath="$PROJECT_DIR$/.c9/.nakignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/tab0" afterPath="$PROJECT_DIR$/.c9/metadata/tab0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/tab1" afterPath="$PROJECT_DIR$/.c9/metadata/tab1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/tab2" afterPath="$PROJECT_DIR$/.c9/metadata/tab2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/style.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/styles.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/tabcontent.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/tabcontent.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/css/tinycarousel.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/css/tinycarousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/jquery.fancybox-v=2.1.5.css" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/jquery.fancybox-v=2.1.5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/jquery.fancybox.pack-v=2.1.5.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/fancybox/jquery.fancybox.pack-v=2.1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/index.html" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/html5shiv.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/html5shiv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery-1.10.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery.tinycarousel.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/jquery.tinycarousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/moj.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/moj.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/script.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/scripts.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/js/tabcontent.js" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/js/tabcontent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/view4.html" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/view4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/metadata/workspace/zakomentirano" afterPath="$PROJECT_DIR$/.c9/metadata/workspace/zakomentirano" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.c9/project.settings" afterPath="$PROJECT_DIR$/.c9/project.settings" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/GibajInZmagaj.iml" afterPath="$PROJECT_DIR$/.idea/GibajInZmagaj.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/tabcontent.css" afterPath="$PROJECT_DIR$/css/tabcontent.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/tinycarousel.css" afterPath="$PROJECT_DIR$/css/tinycarousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox-v=2.1.5.css" afterPath="$PROJECT_DIR$/fancybox/jquery.fancybox-v=2.1.5.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.pack-v=2.1.5.js" afterPath="$PROJECT_DIR$/fancybox/jquery.fancybox.pack-v=2.1.5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/font/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/html5shiv.js" afterPath="$PROJECT_DIR$/js/html5shiv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-migrate-1.2.1.min.js" afterPath="$PROJECT_DIR$/js/jquery-migrate-1.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.easing.1.3.js" afterPath="$PROJECT_DIR$/js/jquery.easing.1.3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.tinycarousel.js" afterPath="$PROJECT_DIR$/js/jquery.tinycarousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/moj.js" afterPath="$PROJECT_DIR$/js/moj.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tabcontent.js" afterPath="$PROJECT_DIR$/js/tabcontent.js" />
     </list>
     <ignored path="GibajInZmagaj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,93 +198,7 @@
     <favorites_list name="GibajInZmagaj" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68911916">
-              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#address#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#8;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#9;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2264" column="5" selection-start-line="2264" selection-start-column="2" selection-end-line="2264" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="246" column="60" selection-start-line="246" selection-start-column="57" selection-end-line="246" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
-              <folding>
-                <marker date="1432040954000" expanded="true" signature="372:405" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabcontent.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="296" column="26" selection-start-line="296" selection-start-column="26" selection-end-line="296" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,26 +219,24 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/js/moj.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/tabcontent.css" />
+        <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/js/moj.js" />
+        <option value="$PROJECT_DIR$/css/tinycarousel.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="773" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -173,10 +259,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -205,21 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GibajInZmagaj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GibajInZmagaj" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -244,41 +318,53 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="JavaScriptLanguageLevel" value="ES5" />
     <property name="JavaScriptPreferStrict" value="true" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
@@ -288,6 +374,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -296,8 +383,30 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>$USER_HOME$/.nvm/versions/node/v5.10.0/bin/node</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -306,31 +415,36 @@
       <changelist id="415df10c-d578-4647-8b48-9a0822c2ef07" name="Default" comment="" />
       <created>1428244158611</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1428244158611</updated>
+      <workItem from="1480926427121" duration="8366000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8366000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21732746" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21754895" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891566" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32892805" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21705426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3274596" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21514423" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -349,284 +463,51 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="44" column="49" selection-start-line="44" selection-start-column="49" selection-end-line="44" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#address#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#8;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#9;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/otroci2Normal.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/otroci1Normal.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="402" column="1" selection-start-line="402" selection-start-column="1" selection-end-line="402" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <marker date="1432040954000" expanded="true" signature="372:405" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="333" column="11" selection-start-line="333" selection-start-column="11" selection-end-line="333" selection-end-column="11" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#address#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#8;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#9;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/rogla1SMALL.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="399" column="0" selection-start-line="399" selection-start-column="0" selection-end-line="399" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/otroci2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="92" selection-start-line="12" selection-start-column="92" selection-end-line="12" selection-end-column="92" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <marker date="1432040954000" expanded="true" signature="372:405" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="168" column="48" selection-start-line="168" selection-start-column="48" selection-end-line="168" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#address#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#8;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#9;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/tabcontent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="1" column="254" selection-start-line="1" selection-start-column="253" selection-end-line="1" selection-end-column="254" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="385" column="0" selection-start-line="385" selection-start-column="0" selection-end-line="385" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/moj.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="77" column="32" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding>
-            <marker date="1432040954000" expanded="true" signature="372:405" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3690476">
+        <state relative-caret-position="0">
           <caret line="5" column="5317" selection-start-line="5" selection-start-column="5309" selection-end-line="5" selection-end-column="5317" />
         </state>
       </provider>
@@ -639,13 +520,6 @@
     <entry file="file://$PROJECT_DIR$/images/otroci2SMALL.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/tabcontent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="254" selection-start-line="1" selection-start-column="253" selection-end-line="1" selection-end-column="254" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/otroci2.jpg">
@@ -703,49 +577,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="102" column="9" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2264" column="5" selection-start-line="2264" selection-start-column="2" selection-end-line="2264" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.222222">
-          <caret line="407" column="25" selection-start-line="407" selection-start-column="22" selection-end-line="407" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.888889">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/moj.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.482143">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/najmanjLogo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/Logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -756,29 +587,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="246" column="60" selection-start-line="246" selection-start-column="57" selection-end-line="246" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
-          <folding>
-            <marker date="1432040954000" expanded="true" signature="372:405" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/tabcontent.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="296" column="26" selection-start-line="296" selection-start-column="26" selection-end-line="296" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -787,44 +599,251 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/html5shiv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2276" column="17" selection-start-line="2276" selection-start-column="17" selection-end-line="2276" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zakomentirano">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tabcontent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="254" selection-start-line="1" selection-start-column="253" selection-end-line="1" selection-end-column="254" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/enatri/._1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/enatri/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/home/28.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/p04-small.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/p08-large.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/p05-small.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/p09-small.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/p11-small.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/s01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/success-kid.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sponzor2.eps">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/najmanjLogo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="102" column="9" selection-start-line="102" selection-start-column="6" selection-end-line="102" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sponzor1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/tinycarousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="71" column="19" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="209" column="24" selection-start-line="209" selection-start-column="24" selection-end-line="209" selection-end-column="24" />
+          <folding>
+            <element signature="e#88#256#0" expanded="false" />
+            <element signature="e#269#395#0" expanded="false" />
+            <element signature="e#413#432#0" expanded="false" />
+            <element signature="e#438#480#0" expanded="false" />
+            <element signature="e#539#731#0" expanded="false" />
+            <element signature="e#787#897#0" expanded="false" />
+            <element signature="e#1159#1232#0" expanded="false" />
+            <element signature="e#1320#1338#0" expanded="false" />
+            <element signature="e#1419#1439#0" expanded="false" />
+            <element signature="e#1440#1523#0" expanded="false" />
+            <element signature="e#1491#1521#0" expanded="false" />
+            <element signature="e#1541#1657#0" expanded="false" />
+            <element signature="e#1666#2153#0" expanded="false" />
+            <element signature="e#2155#2243#0" expanded="false" />
+            <element signature="e#2196#2241#0" expanded="false" />
+            <element signature="e#2252#2739#0" expanded="false" />
+            <element signature="e#2741#2812#0" expanded="false" />
+            <element signature="e#2782#2810#0" expanded="false" />
+            <element signature="e#2821#3308#0" expanded="false" />
+            <element signature="e#3310#3381#0" expanded="false" />
+            <element signature="e#3351#3379#0" expanded="false" />
+            <element signature="e#3402#3429#0" expanded="false" />
+            <element signature="e#3449#3470#0" expanded="false" />
+            <element signature="e#3480#3511#0" expanded="false" />
+            <element signature="e#3523#3543#0" expanded="false" />
+            <element signature="e#3552#3589#0" expanded="false" />
+            <element signature="e#3613#3669#0" expanded="false" />
+            <element signature="e#3674#3695#0" expanded="false" />
+            <element signature="e#3772#3799#0" expanded="false" />
+            <element signature="e#3998#4048#0" expanded="false" />
+            <element signature="e#4061#4154#0" expanded="false" />
+            <element signature="e#4177#4183#0" expanded="false" />
+            <element signature="e#4185#4270#0" expanded="false" />
+            <element signature="e#4245#4268#0" expanded="false" />
+            <element signature="e#4286#4309#0" expanded="false" />
+            <element signature="e#4356#4458#0" expanded="false" />
+            <element signature="e#4492#4509#0" expanded="false" />
+            <element signature="e#4552#4569#0" expanded="false" />
+            <element signature="e#4670#4698#0" expanded="false" />
+            <element signature="e#4745#4801#0" expanded="false" />
+            <element signature="e#4823#4876#0" expanded="false" />
+            <element signature="e#4893#4908#0" expanded="false" />
+            <element signature="e#4919#4936#0" expanded="false" />
+            <element signature="e#4945#4965#0" expanded="false" />
+            <element signature="e#4967#5011#0" expanded="false" />
+            <element signature="e#5003#5009#0" expanded="false" />
+            <element signature="e#5025#5195#0" expanded="false" />
+            <element signature="e#5237#5254#0" expanded="false" />
+            <element signature="e#5267#5373#0" expanded="false" />
+            <element signature="e#5381#5613#0" expanded="false" />
+            <element signature="e#5621#5853#0" expanded="false" />
+            <element signature="e#5861#6096#0" expanded="false" />
+            <element signature="e#6104#6156#0" expanded="false" />
+            <element signature="e#6181#6225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68911916">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        <state relative-caret-position="276">
+          <caret line="54" column="136" selection-start-line="54" selection-start-column="136" selection-end-line="54" selection-end-column="136" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#1;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#address#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#8;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#9;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#div#3;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#3;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#footer#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2820">
+          <caret line="188" column="14" selection-start-line="188" selection-start-column="14" selection-end-line="188" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/moj.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

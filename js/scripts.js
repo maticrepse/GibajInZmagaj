@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
-  $('.carousel').carousel({interval:false});
+  //$('.carousel').carousel({interval:false});
 
 /* affix the navbar after scroll below header */
 $('#nav').affix({
@@ -30,14 +30,15 @@ $('#nav').affix({
 });
 */
 /* activate the carousel */
+/*
 $('#modalCarousel').carousel({interval:false});
 
-/* change modal title when slide changes */
+/!* change modal title when slide changes *!/
 $('#modalCarousel').on('slid.bs.carousel', function () {
   $('.modal-title').html($(this).find('.active').attr("title"));
 })
 
-/* when clicking a thumbnail */
+/!* when clicking a thumbnail *!/
 $('.panel-thumbnail>a').click(function(e){
   
     e.preventDefault();
@@ -48,6 +49,7 @@ $('.panel-thumbnail>a').click(function(e){
     $('#modalCarousel').carousel(id); // slide carousel to selected
   	return false;
 });
+*/
 
 
 

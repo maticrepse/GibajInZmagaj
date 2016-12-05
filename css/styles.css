@@ -190,7 +190,12 @@ h1 {
 }
 
 #logoSlika{
-  width:223px !important;
+    width: 85px;
+    top: 4px;
+    right: 140px;
+}
+.img-navbar {
+    position: absolute;
 }
 
 
@@ -198,10 +203,14 @@ h1 {
   font-size:40px;
   position:absolute;
   z-index:1029;
-  color:#333;
-  top:75px;
+    color: #EC691B;
+    top:75px;
   text-align:center;
   width:100%;
+    font-family: Geneva;
+    /*font-family: Avenir;*/
+
+
 }
 
 #nav {
